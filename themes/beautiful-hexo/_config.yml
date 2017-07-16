@@ -32,12 +32,12 @@ footer:
     link: 'https://www.facebook.com/graziela.goncalves.92'
     title: Facebook
     icon: fa-facebook
-    enalbe: true 
+    enable: true 
   weibo:
     link: # your link here e.g. http...
     title: Weibo
     icon: fa-weibo
-    enalbe: false
+    enable: false
   github:
     link: # your link here e.g. http...
     title: GitHub
@@ -56,10 +56,10 @@ footer:
   instagram: 
     link: 'https://www.instagram.com/graa_goncalves/'
     title: Instagram
-    incon: fa-instagram
+    icon: fa-instagram
     enable: true
   mail:
-    link: 'mailto:grazi.asg@gmail.com'
+    link: 'mailto:grazi.asg@hotmail.com'
     title: Email me
     icon: fa-envelope
     enable: true
