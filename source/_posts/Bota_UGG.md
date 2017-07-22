@@ -1,5 +1,5 @@
 ---
-title: Looks com bota estilo UGG pra inspirar 
+title: Looks com bota estilo UGG para inspirar 
 date: 2017-07-21 18:50:00
 tags:  
 - moda
