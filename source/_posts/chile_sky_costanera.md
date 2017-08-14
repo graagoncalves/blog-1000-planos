@@ -49,6 +49,7 @@ A verdade é que, com ou sem smog, o pôr do sol é lindo!
   Olha como ele se destaca em relação aos outros prédios 
   
    ![N|Solid](https://jbkwva-dm2306.files.1drv.com/y4mIXbLwbATSiwHYH-zBP2SEpu78t2KeYqDIdFPBy8vBVCF54G0RqVB_BhRq5Jpl4ZuTHIH65JYui3_5DxGoQWQv3U4Kcj3SXCsCZb3rFZ4rQ8Iu5iO7Dc32mE5R0N-oJRVq9C645HiGKcsu1duz9lQMVgoTaVrE4oPZio-NRQNdzujuSyHoitjdPz3Ks1SJFY5g52vqWjtAh--3MwFRN6Dfg?width=660&height=377&cropmode=none)
+*Imagem de "skycostanera.cl"*
 
  Depois de visitar o mirante, você pode fazer compras ou comer no Shopping que fica nos primeiros andares. 
  Ah, uma dica legal, apresentando sua identidade no balcão de atendimento do Shopping, você ganha um panfleto com vários lugares que oferecem desconto para turistas. 
