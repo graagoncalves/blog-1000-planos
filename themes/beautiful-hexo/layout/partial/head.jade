@@ -31,7 +31,7 @@ if theme.comment.enable == "facebook"
     //- 966242223397117 is the default fb app_id if you does not have an app at Facebook Developers
     meta(property="fb:app_id", content=theme.comment.id ? theme.comment.id :  "966242223397117")
     //- You can use either config.title or theme.header.title (It's up to you)
-    meta(property="og:title" content=page.title ? (page.title + " - " + theme.header.title) : theme.header.title)
+    meta(property="og:title" content=page.title ? page.title : theme.header.title)
     //- The two meta properties below works for sharing the post on Facebook
     //- Remember to set the image that you want at your post header (fb_og_image)!
     //- Or you can use your avatar image (or any other image).
