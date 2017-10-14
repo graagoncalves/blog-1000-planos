@@ -2,7 +2,6 @@
 title: 'Viagem ao Chile: Cerro Santa Lucia'
 date: 2017-08-11 23:00:00
 tags:  
-- chile
 - viagem
 fb_og_description: Genteeeee, pra quem não sabe, eu acabei de voltar de uma viagem incrível!! Fui com meu namorado conhecer Santiago, no Chile, e vou mostrar aqui no blog um pouquinho de cada lugar que visitamos lá. O post de hoje é sobre o Cerro Santa Lucia.
 fb_og_image: https://iefdva-dm2pap001.files.1drv.com/y4m3LFSCuxMYUHe22hvR2W8FK0rAYituwWqOQLeKQyfTQ_KVzXAYSOcw-KDiYQrnZ1hGCV0HRxazaAHuQD-RVk5h4FXEaiA1UVmfGaJiwu_gyt8DWhic_5sWHja3pIodgFskSPPAePNgoK1J-mziR-SX9m65BoHWQjE3kfsbYa2y1szAqRE1QI9GBFS7NJ-a8-0UCaQiNa1XCkqYDZPtPG34Q?width=540&height=361&cropmode=none

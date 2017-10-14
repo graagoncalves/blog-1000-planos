@@ -2,8 +2,7 @@
 title: Produtos Geek/Nerd
 date: 2017-06-07 20:25:40
 tags:  
-- Decoração
-- Nerd
+- decoração
 fb_og_description: "Quem aí também ama séries, filmes, jogos e desenhos? Eu sou a loucaaaaa dos produtos inspirados nesses temas. Sabe aquelas coisinhas nerds? Então, desde canetas até roupas, acho tudo demais e, como estou nessa fase de decoração, vou dividir com vocês algumas coisas que achei super legais."
 fb_og_image: https://8aqyya-dm2306.files.1drv.com/y4mOP2XveBVggo2rOYzox1jfuHpewrPMf6lCT1GzFsbB4xE_x3Y_ZIYgcrreC-sMv5CBwb6Fy8TdZtIbo7IH04Y9uBNVpBuP45y5hM7Lby5FmdrLyVb3lu4r1SOqH4r8wQsAkQ-NNduSP2oFz3KZeCP15cpvuYZTZTqWFTJwMxWhgR-7pSTv716TVUHwAwt0BfWoilrAPJR4ZzZuW4QYCb_Uw?width=1400&height=933&cropmode=none
 ---

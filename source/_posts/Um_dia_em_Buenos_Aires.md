@@ -2,8 +2,7 @@
 title: 'Um dia em Buenos Aires'
 date: 2017-09-20 20:30:00
 tags:  
-- argentina
-- viagem 
+- viagem
 fb_og_description: "Buenos Aires é a capital e maior cidade da Argentina. Costuma ser o primeiro destino internacional de muitos brasileiros, principalmente devido a facilidade da viagem, pela distância, ofertas de passagem e quantidade de vôos. Mas, claro, também porque a cidade tem muito a oferecer em beleza, cultura, entretenimento e muito mais."
 fb_og_image: https://6l27sq-dm2306.files.1drv.com/y4mgNPqAbwl8hmBktJXJzgv0XCGsidM9sAiuEnKiqn6OJfYXKFqa0W4gx6N38FHwyZ6_JXKHJMcO2TcuP1cpE_z07QdPBGuHNBFVU9dUiZhB2wH30BUoike5OD7vAXNkAtt-zAzaXgeeaCtgtADUIYubjzV3ZltZzjsXsGMCVogg1esHvUMQmxVzEt3qDonF7_FyjiYqm3s5TAo3dMrRUfsXA?width=660&height=440&cropmode=none
 ---

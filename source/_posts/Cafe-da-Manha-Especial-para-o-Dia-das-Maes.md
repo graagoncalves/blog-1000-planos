@@ -2,10 +2,7 @@
 title: Café da Manhã Especial para o Dia das Mães
 date: 2017-05-09 23:00:32
 tags:
-- mãe
 - culinária
-- café da manhã
-- data especial
 fb_og_description: "Tem coisa mais gostosa que presentear alguém tão especial e importante na nossa vida? Quanto de carinho nossas mães já nos deram? Domingo, dia das mães, é uma ótima oportunidade de tentar retribuir uma parcela de toda a dedicação que nos é oferecida por essas rainhas! Então, que tal surpreendê-la desde o momento em que ela acordar? Um café da manhã especial com certeza será uma maneira incrível de começar o dia."
 fb_og_image: https://vjapmg-dm2306.files.1drv.com/y4mS6C6AfU31BPiUIS1zTD41aQ_62iRhZrXBGVkIcwufJt-zBofDV6KY13g18M4al8wnv25WqsAA6Kc_lfoTvmuihZtGSHB63dzx0Kho270jZVIaD2QUFanXkImgzwA41yWaGujLRS4TkMXTyVtcoKmheZcVHIURb5VbjIgdTEKBNOVkRIMzRfzwk76ZhdocviUSPfteVTVJzXX80-1knHvPw?width=1048&height=960&cropmode=none
 ---

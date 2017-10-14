@@ -2,7 +2,7 @@
 title: "Namoro a distância: 5 dicas para enfrentar a situação"
 date: 2017-07-10 20:39:00
 tags:  
-- amor
+- relacionamento
 fb_og_description: "Vale a pena encarar um namoro a distância? A resposta é: namore alguém por quem valha a pena!"
 fb_og_image: https://jbl9jg-dm2306.files.1drv.com/y4mh382HFYgvyGS-9xgTHEt3nrkr1dAFO_GKG_lvvEe4XTQxAIIbAr5M5NoB3iMR3iNyVWf5liGuaaMDpJa8Odn3nZEqck__1B3yTNjPQTqebLikULvJxylFpTY1AG4DhgBG5Q0oii8m_OujNv_DLDuYv5yA3N7JQFdE-y3TS0n8tTOaEJdhu6hf7W_DPQzhpEb55vVb8ytMcr6gzKSR4a6lw?width=590&height=368&cropmode=none
 ---

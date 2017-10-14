@@ -2,11 +2,7 @@
 title: 'Viagem ao Chile: Cerro San Cristóbal'
 date: 2017-08-31 23:00:00
 tags:
-- chile
-- viagem 
-- mirante
-- cerro
-- san cristóbal
+- viagem
 fb_og_description: Chegamos ao último mirante visitado em Santiago, o Cerro San Cristóbal. É um dos pontos mais altos dentro da cidade, com 880 metros, localizado no badalado bairro Bellavista. O cerro está no maior parque urbano do Chile, o Parque Metropolitano de Santiago.
 fb_og_image: https://j46pva-dm2306.files.1drv.com/y4m-wCUZtSX61m7Vjwz9r7JEH1MdUAoP8oZ6uIBPk7QoNmy8eNJ4e39dSdWOw6fgd8mVIni7vTtBKOgY0sfTp6AK47WOJxEhw0aBTAN1nbaWC1fUQ0DUyuigqlcSrnpDwGq-J_aWVxdxPCBJEuLgKyXwQjA4LPBP0TN6pfsje4HX-5vV8bTigZGzBRZdcy_AqEfus08av1i40wWf1JShfhqlw?width=660&height=440&cropmode=none
 ---

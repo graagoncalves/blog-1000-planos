@@ -2,11 +2,7 @@
 title: 'Viagem ao Chile: Tour pela vinícola Concha y Toro'
 date: 2017-08-22 23:00:00
 tags:
-- chile
 - viagem 
-- vinho
-- vinícola
-- concha y toro
 fb_og_description: 'O Chile é um país reconhecido mundialmente por sua produção de vinhos, e a Concha y Toro é, sem dúvidas, a maior e mais famosa vinícola, exportando para mais de 110 países.
 Esse post é para contar como foi nossa experiência em um tour pela vinícola com direito a uma degustação deliciosa acompanhada de sommelier'
 fb_og_image: https://8aqygq-dm2306.files.1drv.com/y4mWPPr9m2jhpg329um5ufLIpHHsY1wyGutD-AARepG80N7mbFklrdmxFYdAG1OKtYrV0sH7M80vzA2pzEthUMaSL_WYIfQHmCV4eHsjqt5-XFSn3M61SIzmpnd5iRii4PltSvoOysy1hIzHaq3MWlQ7H6DvBLLUWvMWKsimQuXj-Ss8s2EYwSmkvS7iAezXDbmlgt3RQdFwmosKwykR2PCWQ?width=660&height=440&cropmode=none

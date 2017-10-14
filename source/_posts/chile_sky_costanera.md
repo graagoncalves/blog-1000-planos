@@ -2,10 +2,7 @@
 title: 'Viagem ao Chile: Visita ao Sky Costanera'
 date: 2017-08-14 23:00:00
 tags:  
-- chile
 - viagem 
-- sky
-- costanera
 fb_og_description: Hoje vamos falar sobre o Sky Costanera! Outro mirante haha! Já falei que estou apaixonada por mirantes, né?! Gente, esse é demaaaaais! 
 fb_og_image: https://j46ova-dm2306.files.1drv.com/y4mN32PN-8WmdzMmLheB8YOrjUJFGNoXSul2JX5Oe07n93gGbyLOqX3-iuwzxYcYe2lkToXk_ay__5HTSNjilxyPv6Gw1NHAEgv5x76KhaXROZUyvoTj2QSB5r5Y0pl20V4Z1BOcqfqHRjj944lrgL8Zefm3IXrmyglFoUJh1JI_eqdyJAA6s_j9Ow3qOOTwZKKeHfJn5ZYQivYLwRg8lSE1Q?width=660&height=538&cropmode=none
 ---

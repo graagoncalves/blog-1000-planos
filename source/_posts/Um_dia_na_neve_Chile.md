@@ -2,11 +2,7 @@
 title: 'Viagem ao Chile: Um dia na neve'
 date: 2017-08-17 23:00:00
 tags:  
-- chile
 - viagem 
-- neve
-- farellones 
-- valle nevado
 fb_og_description: 'O post de hoje é sobre o dia mais especial dessa viagem ao Chile, o dia em que eu realizei um sonho de infância: conhecer a neve <3'
 fb_og_image: https://hdkbpq-dm2306.files.1drv.com/y4mmhrBJuctdD-QqB2UDG5CQdMES36KNikShM30fZIESNEKK-IC6gjAO67TlFCCpxXgkdMWaew3JFvUBvhnGLFMoy_DP5DRd4z0AyCsKrB_cl_p7fu53HPTbLyVHiybC7aMNPLsmTvXO2iaUNpjou6fIEzpzOAb7uCSLYRQ3G7YkG072ymvxukP8g5iup1P9dGd2leU4Ua_Uk02CwX37bK_Pw?width=660&height=441&cropmode=none
 ---

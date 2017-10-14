@@ -2,7 +2,6 @@
 title: 'Viagem ao Chile: Embalse El Yeso'
 date: 2017-09-15 21:25:00
 tags:  
-- chile
 - viagem 
 fb_og_description: 'Consegue imaginar uma represa em meio a Cordilheira dos Andes? Esse lugar existe e sua beleza é de tirar o fôlego!! Embalse El Yeso fica em uma altitude de mais de  2500 metros, a cerca de 70 Km de Santiago e é a principal fonte de água potável da capital chilena.'
 fb_og_image: https://thtypg-dm2306.files.1drv.com/y4mcgudYKAnJ3t2nN4AM02qh0X_qPHqqpjLj50SnkX4-LWqmoFHRh6u86Z3bLQ9T1YK8M76h5EELSWpN1zdiSVOiUb_2GzOlD7hYpkLX1JttN8o2yc-wB4cYvpkif5qmzxS-8upWvONlzU3W9XF0NJ7e0k7hcquDFxFT8rOHWbjc_TssH2G8rKqDDQnFDHS13WyvpRysa4avWBpos_ybYQiVA?width=660&height=441&cropmode=none

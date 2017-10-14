@@ -2,11 +2,8 @@
 title: 'Resenha: Batom Líquido Matific Natura'
 date: 2017-05-16 19:46:22
 tags:
+- moda
 - resenha
-- batom
-- make
-- matte
-- natura
 fb_og_description: "Olá, meninas! Hoje vou fazer uma resenha sobre o batom líquido matific da Natura. "
 fb_og_image: https://j44myq-dm2306.files.1drv.com/y4mhKOC6P6kgG_-pGL_6G8q5DuWNaTfqH4VSXLkfOUzYu7kbCsFDAh-soqn-hWcOxCYqhsbalQsjTTVoWIDTsHq0ShcAorQmovNvCWzn1IeTkK1zMbMw-t2D2-pjreb-u7T90yJWIhp8HBX3tVi_kQlL3grhLW8_bw7n7hRvVtn-3iQaQU_DCiEOniCFW1oPkp-ob0DtisKXuciTbqc9SRR9w?width=842&height=910&cropmode=none
 ---

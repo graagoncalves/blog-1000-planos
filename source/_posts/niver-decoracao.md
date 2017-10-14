@@ -2,9 +2,7 @@
 title: Decoração de aniversário
 date: 2017-06-27 21:15:30
 tags: 
-- festa 
 - decoração
-- aniversário
 fb_og_description: "Olá, gente! Dia 22 foi meu aniversário (26 aninhos) e eu fiz um almoço com a minha família no fim de semana para comemorar, então achei legal dar umas dicas de decoração para festas de aniversário e mostrar um pouquinho como foi o meu."
 fb_og_image: https://u7ugpg-dm2306.files.1drv.com/y4my2KDDWpZyaYbB6SriR7JFRk4A5_ilCDd54APIBOJf5XBPhmLQrk2SKjKnXemRtWfN-y2I6iVQIAg7flygly__8QVHa234gzzQDL_KGSzLN5N4L-sW37Q74qcV0z3wFfHfdj8JnjR8z6pYtxQxBrlubawxAkKQrYV0dBKYYIRMgsN09yI07JvRQyAW-tfJgquCXCFM0e0iSUL8OC-1aX2pg?width=734&height=640&cropmode=none
 ---

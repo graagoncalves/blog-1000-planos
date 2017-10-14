@@ -3,7 +3,6 @@ title: 'Coisas que você não pode deixar de comer e beber no Chile'
 date: 2017-09-28 22:35:00
 tags:  
 - viagem
-- chile
 fb_og_description: 'Viajar envolve vários tipos de experiências diferentes e muito interessantes, uma delas é experimentar a gastronomia local, conhecer sabores que você não está acostumado e outros que sequer conhecia. 
 Acho válido provar pratos típicos da região em que você está e, quem sabe assim, se apaixonar ainda mais por um país ou estado diferente.'
 fb_og_image: https://6l2fya-dm2306.files.1drv.com/y4mGwhQz8o6saKQgXaybPAKV329na5jCQLAuCbHmtTjOq2ki4nnCJ9lAkYj32eer0SvneRZfV92T_UgYtTH6fVRkBKc8zKKYq611T91PZm78xTVgDSjPmjIjekLI7hQyepsmDvMkhjjx1C4LZvs6Hy0cynf-WASFIhlyMjp-NHqoU9KSzt7zKRBkeVOdeQmqDeRTkC31xuDQShtcQV_ZuSL0Q?width=660&height=440&cropmode=none

@@ -2,12 +2,7 @@
 title: Outono/Inverno 2017 - Tendência Militar
 date: 2017-05-05 11:29:23
 tags: 
-- tendência 
-- militar
 - moda
-- looks
-- moda
-- outono inverno
 fb_og_description: "Olá, galera! Vamos ao nosso primeiro post sobre moda. Uhuuul! Bom, todo mundo sabe que a tendência militar voltou e já chegou chegando nesse outono/inverno e promete ser sucesso garantido nessa temporada."
 fb_og_image: https://8atxgw-dm2306.files.1drv.com/y4mLfvb8VhSOvk48SJFIfG9qmGjrPHaUOa7X3T7ZE-0WbMD5Sktv5EOAsi9j918MhP-a_2JzSp75h5JDvHjGvBnnr6Gvv74fTMRSIrt9CcRGE8rTPJZV-7A8Rb7V2h49-Z9KIqd2Rvk_KFk1-hPz3YBNn89QD2sjKbjOPXWoqIqapAE1EBvErFmGU9lRf_yq-xURvLo_GdjoJBPJOiLxRyZ4w?width=710&height=500&cropmode=none
 ---

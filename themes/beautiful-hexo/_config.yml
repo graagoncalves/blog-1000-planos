@@ -1,5 +1,6 @@
 navbar-links:
     Publicações: /archives
+    Categorias: /tags
     Sobre: /about/
 
 avatar: /hexo.png
