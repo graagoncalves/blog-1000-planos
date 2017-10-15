@@ -10,12 +10,8 @@ header:
     title: "Blog 1000 Planos"
     motto: "por Graziela Gonçalves"
     bigimgs:
-        # - src: /bigimgs/01.jpg
-          # desc: "Edifício Itália - SP"
-        - src: /bigimgs/02.jpg
+        - src: /bigimgs/capitolio.jpg
           desc: "Capitólio-MG"
-        #- src: /bigimgs/03.jpg
-        #  desc: ocean
 
 rss: /atom.xml
 googlefonts:
