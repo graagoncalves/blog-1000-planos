@@ -1,0 +1,21 @@
+extends partial/base
+
+block header
+    header.header-section
+        .intro-header.no-img
+            .page-heading
+                h1!= page.title
+                if page.subtitle
+                    hr.small
+                    span.page-subheading!= page.subtitle
+
+block content
+    .container
+        .row
+            script.
+                (function () {
+                    var insta = document.createElement('script');	
+                    insta.src = "//snapwidget.com/js/snapwidget.js";
+                    (document.head || d.body ).appendChild(insta);
+                    document.write('<iframe src="https://snapwidget.com/embed/455865" class="snapwidget-widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%; "></iframe>');
+                })();
