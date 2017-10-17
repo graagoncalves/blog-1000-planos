@@ -1,6 +1,6 @@
 ---
 title: "sobre"
-subtitle: "Graziela Gonçalves"
+subtitle: 'imagens que valem mais do que palavras'
 layout: "instagram-about"
 ---
 
