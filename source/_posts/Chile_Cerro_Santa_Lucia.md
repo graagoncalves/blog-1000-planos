@@ -4,7 +4,8 @@ date: 2017-08-11 23:00:00
 tags:  
 - viagem
 fb_og_description: Genteeeee, pra quem não sabe, eu acabei de voltar de uma viagem incrível!! Fui com meu namorado conhecer Santiago, no Chile, e vou mostrar aqui no blog um pouquinho de cada lugar que visitamos lá. O post de hoje é sobre o Cerro Santa Lucia.
-fb_og_image: https://ied9yq-dm2306.files.1drv.com/y4mkm1iTabDUnycsQqSzC07whjpmSp5LDusAQeyXttGNTnihQwgEBJ7MEGSdXgZ211nbZsgzeKlhKOKtBIQAH3kdrrBO3Jwm-00RinvNYqzU1ZdQXg_gyzDeKtFzuhtyX7B9t1Hc3wNo9Ebu9bAZtf7twvQm_q0OEu0yKha31Z5CQCguNGJKfKBVbFj_8KizTqW1_S-LiuvBOdYDNgMyb0lvw?width=778&height=520&cropmode=none
+fb_og_image:
+https://ied9yq-dm2306.files.1drv.com/y4mkm1iTabDUnycsQqSzC07whjpmSp5LDusAQeyXttGNTnihQwgEBJ7MEGSdXgZ211nbZsgzeKlhKOKtBIQAH3kdrrBO3Jwm-00RinvNYqzU1ZdQXg_gyzDeKtFzuhtyX7B9t1Hc3wNo9Ebu9bAZtf7twvQm_q0OEu0yKha31Z5CQCguNGJKfKBVbFj_8KizTqW1_S-LiuvBOdYDNgMyb0lvw?width=778&height=520&cropmode=none
 ---
 
 Genteeeee, pra quem não sabe, eu acabei de voltar de uma viagem incrível!!

@@ -5,7 +5,8 @@ tags:
 - moda
 - resenha
 fb_og_description: "Olá, meninas! Hoje vou fazer uma resenha sobre o batom líquido matific da Natura. "
-fb_og_image: https://jbkava-dm2306.files.1drv.com/y4mxsoOdER1LqTo2OpIgPJxtx-DdzBhKT-vs45gmCmSpkmnKjbKZjqM6UX3o32Y1XbDKqIZ4VuSpoB_6v6ZYiIQUwpQeI1uL15_pcwgM3iL57_-b_axbmvpGfQTDhyICXeN1Tfbp0dag9lAxegFeKMrqWpNXGEwIOjNbiFoNDKVlDz2GA7wui2mp-lzMM6G0DODrQ-h_jXEMsHqX7O-xMYQZw?width=481&height=520&cropmode=none
+fb_og_image:
+https://jbkava-dm2306.files.1drv.com/y4mxsoOdER1LqTo2OpIgPJxtx-DdzBhKT-vs45gmCmSpkmnKjbKZjqM6UX3o32Y1XbDKqIZ4VuSpoB_6v6ZYiIQUwpQeI1uL15_pcwgM3iL57_-b_axbmvpGfQTDhyICXeN1Tfbp0dag9lAxegFeKMrqWpNXGEwIOjNbiFoNDKVlDz2GA7wui2mp-lzMM6G0DODrQ-h_jXEMsHqX7O-xMYQZw?width=481&height=520&cropmode=none
 ---
 
 Olá, meninas 

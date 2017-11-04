@@ -4,7 +4,8 @@ date: 2017-09-15 21:25:00
 tags:  
 - viagem 
 fb_og_description: 'Consegue imaginar uma represa em meio a Cordilheira dos Andes? Esse lugar existe e sua beleza é de tirar o fôlego!! Embalse El Yeso fica em uma altitude de mais de  2500 metros, a cerca de 70 Km de Santiago e é a principal fonte de água potável da capital chilena.'
-fb_og_image: https://hdi5sg-dm2306.files.1drv.com/y4mgtZsahEg04PE-jiWQH40RRY77dfEU9MThy1Ysfwj0zq0P-dZUoRz-XgWOSg_kFnF3a4FVhPrdsiBobT5uL48HgKzJR74v_tGUIN9A1TATpZYQaANLYeB8W2yLgMvM8oD39Znmc-wHpvl2U4_MmEIbUcS3_0RJj8cIb1nQQ6k7WkHh15S-RFwMmRrZEo5vvHB2130WnxNCzpKRQ1NB51N4A?width=779&height=520&cropmode=none
+fb_og_image:
+https://hdi5sg-dm2306.files.1drv.com/y4mgtZsahEg04PE-jiWQH40RRY77dfEU9MThy1Ysfwj0zq0P-dZUoRz-XgWOSg_kFnF3a4FVhPrdsiBobT5uL48HgKzJR74v_tGUIN9A1TATpZYQaANLYeB8W2yLgMvM8oD39Znmc-wHpvl2U4_MmEIbUcS3_0RJj8cIb1nQQ6k7WkHh15S-RFwMmRrZEo5vvHB2130WnxNCzpKRQ1NB51N4A?width=779&height=520&cropmode=none
 ---
 
 Consegue imaginar uma represa em meio a Cordilheira dos Andes? Esse lugar existe e sua beleza é de tirar o fôlego!! 

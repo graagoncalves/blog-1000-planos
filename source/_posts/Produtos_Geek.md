@@ -4,7 +4,8 @@ date: 2017-06-07 20:25:40
 tags:  
 - decoração
 fb_og_description: "Quem aí também ama séries, filmes, jogos e desenhos? Eu sou a loucaaaaa dos produtos inspirados nesses temas. Sabe aquelas coisinhas nerds? Então, desde canetas até roupas, acho tudo demais e, como estou nessa fase de decoração, vou dividir com vocês algumas coisas que achei super legais."
-fb_og_image: https://vjawmg-dm2306.files.1drv.com/y4mbir00kJAk60YnNLpmNbZXsbL4G2aq1kUahf1UH39UlOVR9fYY853UHfAf6ow_f3wj3fznvPMeknV2IVWnag469gcmW2YWVAdcCgamZoNZjOrvrTUVy0r2Zu_i-GO2F9dnxOQ0Qplg7wLf568e0nmjp2r0SBoURAtpvXxwpxswx4KK_-Twdw23gknrGMfTRGxSaifSyFvZah3PqsWVlAmzQ?width=780&height=520&cropmode=none
+fb_og_image:
+https://vjawmg-dm2306.files.1drv.com/y4mbir00kJAk60YnNLpmNbZXsbL4G2aq1kUahf1UH39UlOVR9fYY853UHfAf6ow_f3wj3fznvPMeknV2IVWnag469gcmW2YWVAdcCgamZoNZjOrvrTUVy0r2Zu_i-GO2F9dnxOQ0Qplg7wLf568e0nmjp2r0SBoURAtpvXxwpxswx4KK_-Twdw23gknrGMfTRGxSaifSyFvZah3PqsWVlAmzQ?width=780&height=520&cropmode=none
 ---
 
 

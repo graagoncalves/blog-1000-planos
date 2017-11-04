@@ -4,7 +4,8 @@ date: 2017-07-10 20:39:00
 tags:  
 - lifestyle
 fb_og_description: "Vale a pena encarar um namoro a distância? A resposta é: namore alguém por quem valha a pena!"
-fb_og_image: https://6l0uha-dm2306.files.1drv.com/y4m2_4PkfPsmg9QHbc-o6mU88wzmDJB1Mw2xprtcD7eihuyKRX-bon_UXSQQT2QrVktQ0Zn_VinXL3Dg8GV8mmSlmh_XjHYKtlcaBZBWtksD2HulZozEB4xTRD-CtQEqcohzW4-C10vv2z8eazIyUMD15wq02x0rPMARdyJI5VGcmZc-EsRa7K8GeX1fXTBfeSr8hnkFNkm4bT8vRRFJI0uZA?width=590&height=368&cropmode=none
+fb_og_image:
+https://u7v1yq-dm2306.files.1drv.com/y4mlCvcGcAMPybyfSQx53_3xlIQFV3abcb_JH2gFjSGg4ni97DbsE2ZRUC9Statqxvl63EknGfX4w3L0mZ7spS66AwkNnahPkYVN-PWKkEdLok1qwH5YYQ6GwJBkhSG1ZkqJ3rpg30EK33GsTvC8B2XODqvtYh9jPT8Rm4KW4HQUcHi9ftBbsa44VpS3s53sbcEP8_GW49Ozc6nEPQ2ZzhrPw?width=780&height=487&cropmode=none
 ---
 
 Vale a pena encarar um namoro a distância? 

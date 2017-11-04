@@ -4,7 +4,8 @@ date: 2017-07-21 18:50:00
 tags:  
 - moda
 fb_og_description: A "bota UGG" leva esse nome devido a marca australiana que a criou. Ela se popularizou e é muito usada por celebridades do mundo todo. O segredo do sucesso dessa botinha é, com certeza, o conforto, e , claro, o fato de ser suuuper quentinha para os dias de inverno.
-fb_og_image: https://iefiva-dm2306.files.1drv.com/y4mHxDsIYhwKJ-IKHFPCmEeqTiG5c9vWcZMGs7urWbHwntzy33r-hnOE6ig7ynsUsnSbUHG-EwA-LGG2aIHLNvqtPXd2L4cixuXw0HvySsd29XRhxj93uGyjr0hJ2fvEMt8G0aysqrDa2-kNV_4GbaMzEx_iBFAEqnzjqyAlgl_jLq-xv2OCejk8ofe5gJaJ8BeENNoS7qieRvVWdyn-l13Iw?width=780&height=519&cropmode=none
+fb_og_image:
+https://iefiva-dm2306.files.1drv.com/y4mHxDsIYhwKJ-IKHFPCmEeqTiG5c9vWcZMGs7urWbHwntzy33r-hnOE6ig7ynsUsnSbUHG-EwA-LGG2aIHLNvqtPXd2L4cixuXw0HvySsd29XRhxj93uGyjr0hJ2fvEMt8G0aysqrDa2-kNV_4GbaMzEx_iBFAEqnzjqyAlgl_jLq-xv2OCejk8ofe5gJaJ8BeENNoS7qieRvVWdyn-l13Iw?width=780&height=519&cropmode=none
 ---
 A "bota UGG" leva esse nome devido a marca australiana que a criou.
 Ela se popularizou e é muito usada por celebridades do mundo todo.
