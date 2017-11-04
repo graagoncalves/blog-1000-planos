@@ -12,10 +12,18 @@ block header
 block content
     .container
         .row
-            script.
-                (function () {
-                    var insta = document.createElement('script');	
-                    insta.src = "//snapwidget.com/js/snapwidget.js";
-                    (document.head || d.body ).appendChild(insta);
-                    document.write('<iframe src="https://snapwidget.com/embed/455865" class="snapwidget-widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%; "></iframe>');
-                })();
+            .col-lg-6.col-lg-offset-3.col-md-10.col-md-offset-1
+                script.
+                    (function () {
+                        var insta = document.createElement('script');	
+                        insta.src = "//snapwidget.com/js/snapwidget.js";
+                        (document.head || d.body ).appendChild(insta);
+                        document.write('<iframe src="https://snapwidget.com/embed/455865" class="snapwidget-widget" allowTransparency="false" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%;"></iframe>');
+                    })();
+                center
+                    .insta-footer(style="font-weight: 300; font-size: 25px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif")='gostou? tem mais ' 
+                        a(href='https://www.instagram.com/graa_goncalves/')='aqui'
+                         
+                 
+                    
+                

@@ -7,7 +7,7 @@
 #
 
 # Resize to fit 780x520
-convert $1 -resize 780x520\> resized_$1
+convert $1 -resize 780x520 resized_$1
 
 # Convert to PPM
 djpeg -outfile $1.ppm resized_$1
@@ -23,5 +23,3 @@ mv $1 old_$1
 
 # Optimize
 cjpeg -optimize -quality 69 -outfile $FNAME $1.ppm 
-
-

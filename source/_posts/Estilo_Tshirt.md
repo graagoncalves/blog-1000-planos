@@ -4,40 +4,40 @@ date: 2017-10-09 22:35:00
 tags:  
 - moda
 fb_og_description: 'Se tem uma peça que não pode faltar no guarda-roupa, é a t-shirt. Seja qual for o seu estilo, com certeza a t-shirt é match certo na sua composição. Looks despojados, divertidos, sofisticados, essa peça é garantia de sucesso.'
-fb_og_image: https://u7uxmq-dm2306.files.1drv.com/y4muWVuQpxGbOw5_YZwGctXexLVbOIigWF_8U4sugTP1r9v-F_CekwT2sWjGYg0zbbfmwKkW9utYy6IO623cZRWIKyMlWhgr3HPYU4hyoW9JgdM9c3SCnqpTaX8DHeyjIikEenkFYkwNV3nQ14Kd-ONFK2k3FFEuJczi3KOTUPqN7pPR1Xm76hGcWiP5wwzlKJylC3z-arJDQxfxijX32t6xg?width=660&height=434&cropmode=none
+fb_og_image: https://6l2sdw-dm2306.files.1drv.com/y4mOGrV8iHK5uqM2OnFaau5Rz4zNQOJczRZF1lqc4GH-KP4xngRXd7KLZ3L9Z7rVXyUzJZOySOzD31ldT0HpO24zapOqd3qH1cueWW7O4Wq4nJlSJUCwfh9rOf5z-4arvZsDLOe8EsINyOBPv4eFEVMCEhj6EUr5K5LedaA6v0jXBmLV4Z49QuIe1YBrLqc-GBdylWg8ajNoIGzl7rVPhoDrg?width=780&height=513&cropmode=none
 ---
 
 Se tem uma peça que não pode faltar no guarda-roupa, é a t-shirt.
 Seja qual for o seu estilo, com certeza a t-shirt é match certo na sua composição.
 Looks despojados, divertidos, sofisticados, essa peça é garantia de sucesso.
 
-![N|Solid](https://u7uxmq-dm2306.files.1drv.com/y4muWVuQpxGbOw5_YZwGctXexLVbOIigWF_8U4sugTP1r9v-F_CekwT2sWjGYg0zbbfmwKkW9utYy6IO623cZRWIKyMlWhgr3HPYU4hyoW9JgdM9c3SCnqpTaX8DHeyjIikEenkFYkwNV3nQ14Kd-ONFK2k3FFEuJczi3KOTUPqN7pPR1Xm76hGcWiP5wwzlKJylC3z-arJDQxfxijX32t6xg?width=660&height=434&cropmode=none)
+![N|Solid](https://6l2sdw-dm2306.files.1drv.com/y4mOGrV8iHK5uqM2OnFaau5Rz4zNQOJczRZF1lqc4GH-KP4xngRXd7KLZ3L9Z7rVXyUzJZOySOzD31ldT0HpO24zapOqd3qH1cueWW7O4Wq4nJlSJUCwfh9rOf5z-4arvZsDLOe8EsINyOBPv4eFEVMCEhj6EUr5K5LedaA6v0jXBmLV4Z49QuIe1YBrLqc-GBdylWg8ajNoIGzl7rVPhoDrg?width=780&height=513&cropmode=none)
 
 <!-- more -->
 
 Antes relacionada a combinações básicas, hoje as t-shirts estão presentes nos mais diversos looks, há vários modelos que combinam com variados estilos e se adaptam a muitas ocasiões. 
 Já faz um tempo que essa peça vem sendo considerada indispensável. Então se inspire para montar looks fashions, charmosos, românticos, poderosos. Não importa qual o seu estilo, a t-shirt vai te conquistar.
 
-![N|Solid](https://u7t7sa-dm2306.files.1drv.com/y4mimHj5Wfmfl2AqYYYrMQ5mSWHkC7qclfrfa2-SQNNczZvO56v3N-PIi5qgulY3lp_nL_nNzGNcEVem73Cb42B1re4QSGCLaJ9mz9gGMgSu9QQuD6BY72WYhUePSO8uXREwIjg6KbHONVSB1n98NM8ceezXlrQ-ZNX5C90HRRa5ALSJ0vuCXQWMdnEOPKAQsLR8yHFKyu7ESqgzOVuNmujow?width=660&height=461&cropmode=none)
+![N|Solid](https://6l0mpq-dm2306.files.1drv.com/y4m7U8kQd9F8J9jwI3vC8IhePiNNznD0ZC63Qy9dhdM14YzcO8BNlM0yyrkh2y7-L7qcnuLPpzCm-myWX6tMTAVdME5rOlneF174mG5gzY-tbEUwFttcp_2KmkXoAHvCAgb5YQ6iQmRUSXwSGHBYGtO_XvI4PQb3W7mbx9vhnoZIEp4pcprJjV0UC1Hs-RumT6A895KlTK1yY6vyfpB0btZfA?width=744&height=520&cropmode=none)
 
-![N|Solid](https://u7swjq-dm2306.files.1drv.com/y4mVxuNAX1vLKl0IkNBdC6qa4-TDMfgfopEKvCH2cOSf8QdRsVDlXljroOyI4E8-xUDVHKDwwFfx3vUb_gteMyBIuS6z3BA3_rzzVDYhegMct9gqU7OBYcvlVyj5i5YsM3MbV_Kqfcw-Pu8BMZukDRqtYOUhCDjDeFGuyzl729nP5v7VVQLSi4Tj6HUW_oCua4mShON9D2fY1HJflBNAW7Lmw?width=660&height=440&cropmode=none)
+![N|Solid](https://6l0tha-dm2306.files.1drv.com/y4mdIXWCucUxPpgdPib7mhdfwQgL3B8L_i-SScO6DScOVquT_kcO8dHUNIlQYUo_jXC53C7sLTmN3f6KA1_qlrFpcDAN7okpRjwlAb1y0Dh0oICdxbfp60IOmNrLuE4gAAIdvtl3gdUtmttiRZokR5H2-uGRx2xpGfGz73NTfMRB0JsFHMcOSFAzLVYPayfKvEGHyRacuRwUqhMV1jtRKFpKA?width=780&height=520&cropmode=none)
 
 Eu amo aqueles modelos de camiseta divertidas, com frases engraçadas ou personagens.
 Ah, e aquelas t-shirts da série que você mais gosta, já viu? Adoooro! São minhas preferidas. 
 Assim, além de você se vestir bem e montar um look legal, você leva com você algo que gosta muito. 
 
-![N|Solid](https://u7vgow-dm2306.files.1drv.com/y4mwSY1QD6NbS3j3xeamVAQZW-u-P0YjoGJ2Ps8c9gOjb73S6nX9y-HWVaxZKW7f71vSSwOBI9JebPffL7tYUx_auMYuZlRhbnd9CjIy3Q9dCe-9Bhkgxsv2USDu9gBXLYdzvUq1RoDcsgRhyyOPp2vhtNumZ8snnBWbqOgI21cuY8MLPLyYX9xiw2GorQszabwV5-xyjuWdjzRS11jBsbHsg?width=630&height=630&cropmode=none)
+![N|Solid](https://6l2lya-dm2306.files.1drv.com/y4m0MlhTGu5MNQPnK3AmJ9r5N9Ovm650IQ84Qgj0A13V8o6A_QsfqSYt5TMq1lJVRHYW6AgEHKjKmtyPKxnqrzCIrQuwrg1RmmNsTpLG5t0zF3l9ZNnuopoYSLLmjsl1kA8D9bVfFlNwlWkgzH3Adr3LPKLihbW5Lo57Q5fD5vHB4ttyfAjdCaswP4CCk8kENU0KbLu3wnVycm01pWhOolo7A?width=520&height=520&cropmode=none)
 Imagem de "TeePublic"
 
-![N|Solid](https://u7sdba-dm2306.files.1drv.com/y4m7uJbdUnxW_LH9XIHK7SiCxHZeoWfU59tl3D5YkCvTv5Rm04iYqzbbcx0dvFQEC672diOXl_qf_JamzIWJW3dOXbadIpTt450VSAJyKmol_L-ti0Wu_yATleQFjSycyLSiU74IJ8Frvm9s78h_fHtQa_-p9RyGXy5uhUwy1sfgj8b42wfS2GBtr2IE2dto54AMRsd6cNIJk725mTO9m4rmg?width=630&height=630&cropmode=none)
+![N|Solid](https://6l3bsq-dm2306.files.1drv.com/y4mcyzWETwV6WkkEckDy35oxIR-DRF3QComxwUvfz8NFt8ydo4MiiKsZ8FqTFx-Mp_nFrMq_WYTzfhTFKHpEuPTJmypmkk81_3gUKu-RbTaEyh9aLv2d0DGWn1BdoruAkc03mnk05miuqMcWwU_v02lQCE9eDIcLjY1Js3-Kv-VMNqpyGQKDyEuJGjn7vxXQ9DU97WKLVj3wg3SWVuVe9kaow?width=520&height=520&cropmode=none)
 Imagem de "Pinterest"
 
 Com saia, calça, shorts, tênis, salto... No verão ou no inverno... De looks confortáveis a finos. Basta ter criatividade, escolher as peças adequadas e ser feliz!  
 
-![N|Solid](https://u7vngg-dm2306.files.1drv.com/y4miOk9Z_lzakj5-7fBwBqoEBpGDj1zg_AXUBcR0Asns8o4N6MiuyB9lbcqE4nyEUcVJV3FtaMuiMzXScRgPOtmiGr5RXp9_sgHQmMwRJtjRU-pNJOYHXUYtUIbJ9ucHvLmxkBrpN-m7UKMlsA361nh8PdyV9ULquf2_nxjCbXoGjtd1AbagJIsjSk47D8DbO9F3sjxkK1iEXnWRLAsNNsYBg?width=660&height=600&cropmode=none)
+![N|Solid](https://hdklha-dm2306.files.1drv.com/y4mNNlu9gIsCVZlvqAZxBbZLbxUvNHBhKWRaWfod_u-ad-aZy1fCy193ngHYJ5UsUQooincNTJEgwosJxFlHqAKUzm-ZSSUqDpfPl3XlHqbLZ-xdJqLMu3p2rhw0m3qW9A2V0oW_KYHbIA-QgqB3gRQrQFdD7ns1VuOTQqRHKJMiv_bZRGP-dPISJcpD0-of19DALhgO8U6p2QTlqB5setNXQ?width=572&height=520&cropmode=none)
 Imagem de "Pinterest"
 
-![N|Solid](https://u7uc9w-dm2306.files.1drv.com/y4mAptwDqa-5jMjB6u7f9LveFRqR9Zj3iscndUTAotwLkbOVEvpgA7LQo971JanHJy7FMKTrefu5S5ULz4mvvbKx4FbvHAfHOx4B2Fa2lZXWVCy0cQnocWi1FFExZKpcbBGR9AnxHQ8HDWYPYddE4carK0JvY_KJyMMK9oYw4twYWslfAW31TDa4reQ7rWLBSiH5NlBDhGT0eaFGtd5ZSafnA?width=660&height=352&cropmode=none)
+![N|Solid](https://6l3wuw-dm2306.files.1drv.com/y4mWe01qBml5syj_eCBnpS4BV3ev63Kmj6nrSRfKBQItYKfBw_sbF5-5rNl0IN1j52sAObtYvNuzfH7RZEVubP-Ny_8pmg2n5lJ2pjlMF9XdTmtqnlYO-A_hWSZQPH8AoNCq2n7Ccn3j0iFrw4pEOGwOGS4eUCFqN7Qfn58HRlR_MdQ_elGEuHqAy5DCvsRsa3JMRhVowM74HAS7FNcpEww_Q?width=780&height=416&cropmode=none)
 Imagem de "Sendo Chic"
 
 beijo, beijo <3 

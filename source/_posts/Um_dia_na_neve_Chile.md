@@ -4,12 +4,12 @@ date: 2017-08-17 23:00:00
 tags:  
 - viagem 
 fb_og_description: 'O post de hoje é sobre o dia mais especial dessa viagem ao Chile, o dia em que eu realizei um sonho de infância: conhecer a neve <3'
-fb_og_image: https://hdkbpq-dm2306.files.1drv.com/y4mmhrBJuctdD-QqB2UDG5CQdMES36KNikShM30fZIESNEKK-IC6gjAO67TlFCCpxXgkdMWaew3JFvUBvhnGLFMoy_DP5DRd4z0AyCsKrB_cl_p7fu53HPTbLyVHiybC7aMNPLsmTvXO2iaUNpjou6fIEzpzOAb7uCSLYRQ3G7YkG072ymvxukP8g5iup1P9dGd2leU4Ua_Uk02CwX37bK_Pw?width=660&height=441&cropmode=none
+fb_og_image: https://thspvq-dm2306.files.1drv.com/y4mgxX-QqMIL3eBoeo46zzZqPIgjvSPQkIfpKz1lyExz4WvNhUrynf9-jkK_XHwmsp2ntQHfwqu-egc9bN7i7xFEmpmV60VPTLXODmslVDQw2xDmBfFFOP_lXaZpnag96g-Klxt7D9uHI5jOzPsG7QWclibmZYaGhmRZaP9E6nsUCOnF0G0m3dv5njfZtuxVWAR2iMx_jZNqSa6akM-ZCArsQ?width=779&height=520&cropmode=none
 ---
 
 O post de hoje é sobre o dia mais especial dessa viagem ao Chile, o dia em que eu realizei um sonho de infância: conhecer a neve <3 
 
-![N|Solid](https://hdkbpq-dm2306.files.1drv.com/y4mmhrBJuctdD-QqB2UDG5CQdMES36KNikShM30fZIESNEKK-IC6gjAO67TlFCCpxXgkdMWaew3JFvUBvhnGLFMoy_DP5DRd4z0AyCsKrB_cl_p7fu53HPTbLyVHiybC7aMNPLsmTvXO2iaUNpjou6fIEzpzOAb7uCSLYRQ3G7YkG072ymvxukP8g5iup1P9dGd2leU4Ua_Uk02CwX37bK_Pw?width=660&height=441&cropmode=none)
+![N|Solid](https://thspvq-dm2306.files.1drv.com/y4mgxX-QqMIL3eBoeo46zzZqPIgjvSPQkIfpKz1lyExz4WvNhUrynf9-jkK_XHwmsp2ntQHfwqu-egc9bN7i7xFEmpmV60VPTLXODmslVDQw2xDmBfFFOP_lXaZpnag96g-Klxt7D9uHI5jOzPsG7QWclibmZYaGhmRZaP9E6nsUCOnF0G0m3dv5njfZtuxVWAR2iMx_jZNqSa6akM-ZCArsQ?width=779&height=520&cropmode=none)
 <!-- more -->
 
 A subida até as estações de esqui não é muito demorada, dependendo das condições da estrada. 
@@ -21,26 +21,26 @@ O valor pago foi de 22 mil pesos, o que dá em torno de 110,00 reais, dependendo
 A van nos buscou no hostel às 6:15. Paramos em um estabelecimento para alugar roupas e bota para neve. Eu e meu namorado não alugamos e, sinceramente, não sentimos falta. Não íamos esquiar nem fazer snowboard, então achamos que não seria necessário. Se optar por não alugar também, só tome cuidado para não usar um calçado que molhe com facilidade e, de preferência, use uma roupa térmica por baixo das demais camadas. No centro, cada peça custa cerca de 2 mil pesos (10 reais) e são super quentinhas, ajudou muito.
 Usamos as roupas que compramos no Brasil mesmo, mas lá em Santiago encontramos muitas opções de botas e casacos com um preço bem bacana. 
 
-![N|Solid](https://hdkiha-dm2306.files.1drv.com/y4mP742wCO8n2VuEUMtUatK09kb73Bdxbik-D7QT4KtKxRSs_8OEkDCnz2FKQ4ElFXpFB6XMLbJL-n5OWT6zIuwQ128XbdDNhLqo50mYUlmhno60YT5IJyGx19Lp9-Cgw2-hPm4ycTdm7-qUX_r_ClCmY040q_BrTQC5SFj0BRokXXr1-kEPbDJ0B9_4fPgIAvRvpad3Pvc92TSLFsa8ntKsw?width=660&height=440&cropmode=none)
+![N|Solid](https://thq9gw-dm2306.files.1drv.com/y4mD3n6uWf3vUNs4pjxNmtLY1JoIP2gROZ6lJB1TKMbB2bKo4DKykNjaamQKpTRvW_453DvSPfwDKS3SuVQfG1re2dYFyESkGZ17Iy7nyd2tp9bq17dDwPoYE3JpjR-67-BLAusT-TGOjbKydSfl8szuSyo--KyLCUrOxxMPMRTXg1pJSRw-IiC6EdC3XssJuciFK0Lwf2KlbObEp7Hk0gxdg?width=780&height=520&cropmode=none)
 A caminho da Cordilheira :)
 
 O nosso passeio foi com uma visita ao Valle Nevado e o restante do dia em Farellones, mas antes de chegar ao Valle Nevado, fizemos uma paradinha de 15 minutos para conhecer El Colorado, que é uma estação de esqui mais simples, mas também muito bonita.
 
-![N|Solid](https://6l2pdw-dm2306.files.1drv.com/y4mlz6oe0HTzEiUJGFVBYfajujcR7OvYvHfjivrSdNP25ktlNnuu3unSnT-w8dkMNzRmOxNcGUrHsMZ-Yt0qbkTh0bY0tm0KMbAP8Ur57DT0TkEMiwJdVxlG3llbRuQjmRKbuUuudtopwRFTIT4pkBu9KSyXTvTa1r0q5neaYfvC7IlNXErV3Zex5X4XcT1hXqGK4s0CHdiQ73gVCLnr6wyLA?width=660&height=440&cropmode=none)
+![N|Solid](https://tpnrba-dm2306.files.1drv.com/y4mDQhQT7l-ebJaOej3bjCPRlwZLX2rPL4Fh7YnMP5h6izNW5KaUclV-ghGkdMS7eGl9UsyFXZk0Ju9EcBqccR9makepco-HxL6gO8AYlsbefXNyavdPCmjMQGiw1CoKB4KlfxZomuExgEyObVniyfd3UDLYDoag3Ej4ptmBiX13eeg8YMXga6o403PiZuETWSHFYE00bo3HDbo1T3KssL1jg?width=780&height=520&cropmode=none)
 El Colorado
 
-![N|Solid](https://6l0qha-dm2306.files.1drv.com/y4mMdJGgX9i2DuSvSwmLxaGDejW12qL45IBTYo-rTNYgDvBDyDLei9iX-F3lguWVrnDboqoWeGjjh0jScC1fsOarLFCRIg_R_WJQOhSVnlV8sP8wU8vDkRp8ICjY96m0tpkxGmv-TOjF8LlisxVyrc6BP_JhQQwSknoo3ox2lKSSEgwdxMMuBJNa5jS2-8VwMJAgM-iUao5lhSvcT5qhBUyAw?width=660&height=440&cropmode=none)
+![N|Solid](https://thsidg-dm2306.files.1drv.com/y4muO9vDVwzp72FUDFxcwo99CXyIuy63VcFJ8t6vhlXj1lcCB-LRu3PGGE3euXRHJ0X6NkRDalaoqYNzfkhnwjesSEJKKPxEfYCKDgOUaVzC4LtxNnfUzRdW7b8ngSaHdE0eUmiJjJ4kbNqvNZZ_iaf0f45RgSlx4LC9snhNSPbVfsUjrv94x4jUosDdH9IKKhvECx_gxPhvlZQ0mBmEi8Leg?width=780&height=520&cropmode=none)
 El Colorado
 
  O nosso tempo de permanência no Valle Nevado foi de apenas uma hora e foi o suficiente para conhecer, brincar um pouco na neve, tirar muuuitas fotos rs e tomar um chocolate quente, que, a propósito, custou 15,00 reais um copo grande e estava delicioso! 
  
- ![N|Solid](https://hdlrjg-dm2306.files.1drv.com/y4mrrdUDDn6rjjPv7j-NzmMiH54P4wqUpz_1lioJOczvkwX4PjPlr6KmhVReSQT2_dptx2m3cJJC7haODnql6j6N7MzGm_9gDPg3Ct0Kj2oUFLcLP5TPTDZaPBgdwHZMkUMNVSRisJEP8GOJ7v7FUbJkdFCH7NIkKcVt_YvssGlqJUR6QnNpaEe7iEKhNKMqzoS3i8IEnpbnjSt6nP0qCgkcQ?width=660&height=440&cropmode=none) 
+ ![N|Solid](https://tpmg4q-dm2306.files.1drv.com/y4miA28SIvVq_nxQkpJyDAGN-z4QK51IkUXxnt1cQcfKVbZvtnCcYHVbERrkK8tDTyZ9dTafOCTcuUXkgO9rNBbt0qCQCRt5L9yi-pyIP37OGbpzdXYDYMb3nKTX_uxcD_3Ekux2ngsagWZ1XBPW_uxflIjXwKW-R4FvV3QYkgSDLdR7_7acAi6OauxTUpRFTEX84kFyX-BxXJ62OWi0nhGVA?width=780&height=520&cropmode=none) 
  Valle Nevado
  
- ![N|Solid](https://hdku9g-dm2306.files.1drv.com/y4mVcp3_Oia9bAJMni6rsQjSvuyiFy4xmF7PnwtRyrT1--MkfBaKSABgNvK8N-OcBeJCQLCOBbrrr7uy13_iThDAf0u5W3ddyAEMQPIbkEIGLBaC637XfDEFeQt-KiaCyS9OpfRZwiiSNTFUnmoMi9GxgoRx2gUZ3N7kUyvFIy6WM4rFIW_SGIB1hzkBX4uYPRFWsi41tKHbC-3zOOOnz2_4A?width=660&height=440&cropmode=none)
+ ![N|Solid](https://thtfpg-dm2306.files.1drv.com/y4mtTiYWX6_7zvlLuIm5RSd0sqFYUdavHcAIQBMwB7Ub-8l4yST6C3ja-PelSUHUlEDGXrchp99TBuxzsRzB7SwhUuHvdp0FJ7nhnq97IeKbT3hvzvVndV_7k-NlrcH3tb9D178MV_BnOmiik-bHUT1bsi3stZycGIrg5AVjT8fMowDLMh7wFKLmQsnm8oAtWtRB9moFkAddITF74R5UTUbtQ?width=780&height=520&cropmode=none)
  Valle Nevado
  
- ![N|Solid](https://6l374q-dm2306.files.1drv.com/y4mm-e0vLrnKKohBrJGftb9D4eE578utgK9D6hoSY3lPjFKMN7FMSC47KeNDBEJQTNbwrcxZ5eTkAWApHY5nTY7v4JEaL_AQXziLsLHaT715NGTA3jWUPSWuJ6MjPXJGZZVv-ZZRMof0DaQ-o1CEdW-2z-7BuNBsqIEW-ygRi5e_WVlffaEWK_Wg14zgx9WOfFigeFmwq6E9mCTk1eISyEE0Q?width=660&height=440&cropmode=none)
+ ![N|Solid](https://thrleq-dm2306.files.1drv.com/y4mnj63Th8mao-CG2IAZggYZX1h_DBfrNQJc5YQIvSPCdpZMaJp7Slx57Qrw9CaT8Yk8HnciMUnoD8f6JD9xXVi4ABu1mgGGaRQZOTMeCjDFjHazSSdb_X95XI0QH4voG05i7YifbLW3lJlkCRmiroPm8WPFELkpN5qoHLWkuMM9Y0P0WsDS9ONuV2f09hxQ98rrNnwAvfyeiZlaMnhD-Tivg?width=780&height=520&cropmode=none)
  Valle Nevado
  
 
@@ -50,13 +50,13 @@ El Colorado
  Muita gente deixa de conhecer pois acha que, subindo até lá, vai perder um tempo em que poderia estar brincando em Farellones (o guia dá a opção de não subir),  mas eu acho que o Valle Nevado é imperdível! 
  
  
-![N|Solid](https://hdi9pq-dm2306.files.1drv.com/y4m74j5-vV7sH2BUjwT9MwYvv9TLPf8OKTbwhme7P9Wd0c-UzjeQP_YSV5f_MEekCYOSdGe7SlpETawgfzYGmJr5BFtG-xBpvh-QmyjbwydoDoup_6NEzL9q3SCNyXHWYWk6og9RMK9Q3gRm-4cnmRRFmW0Wm7wHvTIktkowvVvxzQWocqzYJLTKCZ2FY4-bTkZbtOqonf8vhE8x3rXHn-EHw?width=660&height=441&cropmode=none)
+![N|Solid](https://tplxpw-dm2306.files.1drv.com/y4m7x39U3ZL4bdVvvNJqKu1ANBEzag7P0ybtN8S9bKYzxKW2PkszYaxPynyu0VuSDHgshYt2lW8BlF81z0jm0OcuxzZpfsu7S_LbvGOzgRPMy5g5yNA0ucdhmjxX2U1cTSIVfW__NvUuH7nw-8qpqG60rdyFGIve8qy9VTmWHVvKGnogE3lILGr430_-j0tg19oLqhxvfakntGp8QaBgE7bcA?width=779&height=520&cropmode=none)
 Valle Nevado
 
-![N|Solid](https://6l2iya-dm2306.files.1drv.com/y4m-qhvZMucBEMFq4eo2jwm43hPZpSxbWo6S6uo-2_vkcO7Mu2akvBnqz4wfh6UgkxAV0jutQBqBTa9U4OhmmnBz57hYoZqU_NyugmOl4zq7FoVK9ZXD2__UuJCjrbNWeHQ4uaW8a5jkhRB21uaKI6xzMdOVJ1IH724QMfg7k671G-liN_2cYLlBWyqbu5p2SYpQrE2h8mxCgggkwqm-1RoIQ?width=660&height=440&cropmode=none)
+![N|Solid](https://thqo4q-dm2306.files.1drv.com/y4mHFvDtXCeyNMEgKAjm2k8piwvPnvS3p3bJoST1TNTQckH7rbTaiHtIOWFag9gtrWV8gKazPF3qdlxA31roVJhyThBEtiA2lRDU5BtoiuXlAMoHdc0BqnZQAK1qeF3IZMO7zCiaBlLRP4yUSxz79Nb_-Oa-fhYM5iTd4C29osaQMsnSv1uaGElKLnnTq2-sa7ILHlPbVZZ0UJxgKySafc3LQ?width=780&height=520&cropmode=none)
 Valle Nevado
 
-![N|Solid](https://6l3tuw-dm2306.files.1drv.com/y4mluFLFfwxFkQ1Vjjh7ou5Yk9y3ChnCA-uQ0wXKneubKxqivETw-kpaKd-Hrd-juQknBXnTuPOUIIBPJlmwHta7ruSI9uqhd8vScHioWN5830VlCusn6I-LtpNpowTB6Oo7Utl8EdAgQaz-Hi3ZwY3XSPa5lxjR_6hKDCP8AFc9rTze4abuCw8lFN8sP0_TvcpUwXJ06EMLNxhZwAqLI1rgQ?width=660&height=440&cropmode=none) 
+![N|Solid](https://tpnysw-dm2306.files.1drv.com/y4m-uQ5yLdx3qgcFOM26GRPiQehmhejVKE01P7WG2C-FrUK3xQo0gq5mBm-X2CdGcqekZrY2GrNJR2cQl3neEbservmdjwt39oW5-2rSin3QwE_rxxp6LCyve6kvPQmBXq5RvLGGmhmQe_S1Wnwepd2qJx7F4Fnc8RZAKl4acgLGdJMFanr6-RTYj0ydZ1SdrU1FVYt9-sO8u673Euad0Rtzg?width=780&height=520&cropmode=none) 
 Valle Nevado
 Se eu não me controlar, posto todas as fotos hahaha. Que lugar espetacular! 
 
@@ -64,16 +64,16 @@ Ao chegar em Farellones, corra para a fila das atividades, pois enche rapidinho.
 Todas são muuuuito divertidas e a sensação, no fim do dia, é de que você deveria ficar mais tempo.
 A entrada em Farellones, ao contrario do Valle, é cobrada. Pagamos 20 mil pesos (em torno de 100 reais) com todas as atividades inclusas, são elas a boia, o trenó, o teleférico e a bike. Esqui e snowboard são pagos a parte, juntamente com o aluguel dos equipamentos. 
 
-![N|Solid](https://6l30mg-dm2306.files.1drv.com/y4meUIEzFjRDPsMqdw7wIH9ULLbum2kCWmftp_AoX6-lZgx30Cm3DEItPGhNEt8kGvsj_PfNzp84OJSCcS5c5BwHeu0herwf3_d2c1ws3HMG67MjCU9tb2V9btamju8klkdlZDlEHZEJwcmcDew6xPGNMkxVrVtjo1by16e8UpFpjCJFUm3V2Fcf2u3G9vEjnuz7lvHGleCHOFlt-X0AHQQuQ?width=660&height=440&cropmode=none)
+![N|Solid](https://tplqpa-dm2306.files.1drv.com/y4mQ9SDc5CP1WxcfGpUubVR0lTKSsjrhZ-hkbdxLsvccPbZKiX7T94vsE0cTbySRZ8j6vEQGPC5MMdurgKWwzdGOrd8eQdQOcreI3gVw8K-PcI2QL2ggIav1I40r9zAoKMz-Koa8041NdVKjDTgZ7thrabcT_-VXU2cogYg0O0DSPHoFQW5-4UrxdhSpIoQIO_i2h7bNc6-5ne-KssrZoGTuA?width=780&height=520&cropmode=none)
 Farellones 
 
-![N|Solid](https://6l2psq-dm2306.files.1drv.com/y4mwdVEq4BgXFmDbzK4LYegGQVSrL6tpAhN1lKMPVbfguSTIr6upsXjR-ziW1c4csqR1DS87pAN23FVTOMn6C5_JrOTrD6ANq279aVDoW9FjoWfDgh04W3Ee5UJd4DIekpMefKM9LwW4FPpzFh2Dcv4TY8Qvq7jNgbGz0T_k7qzPS3YL59hcgdzEjTQrrL2sgnLpshMicKncyrWmV8u7_b7lg?width=660&height=440&cropmode=none)
+![N|Solid](https://tpm1gw-dm2306.files.1drv.com/y4mPLy96TDeBlC_xbwmDbcZ9vw5WcJ3kT3EsDS4-fMPUX1nbPkgZdxw91kecl1R_zVcLRFtVZnZ9Wl_wNU4NLiWOO-BPDA1HxKjDdp-7Tna52ETKBUSeiKkOp3MAIgmtKYovlTy2E9YVZ88dotQgi5DVm3dx_2TGwdu1KdzCKGZiZUVicqW2GwjX_8zgLB9DnuTu2jvgZr5lOcObny45A8YFg?width=780&height=520&cropmode=none)
 Farellones 
 
-![N|Solid](https://u7u0mq-dm2306.files.1drv.com/y4mqGnDqk4Ltdf7kdeZ_f50waXZ372HOFOY5otNXrdxNqUfOVysMCYgLKUOtq-CW3mpbB_lhs2TXy9aZJXy2PVAoraQgi0hA_EdRpB-xRiogn_Z5GfRpJFBqTjQUXTVH35GAQ_1H5lkDdHaIg4GA24aSOWaBIx_FEKjC_j3N6HSlYFIpHwXfD_lX1DcBNT6yiPK4ip_rrfJozcFE11Sk2amfA?width=660&height=440&cropmode=none)
+![N|Solid](https://thrzba-dm2306.files.1drv.com/y4mevOdBleM5A9WZyxj1oaXSoUhXO7JL-_PF67eAGN3zpPyzclVaP_2CKP--M5DWXDIpHX6V_s3B7qcf5eB8AXwEWds_-_lWnRGK6oCsgYavjRoQXsw6957qgKmRRJUN5qOPjNP0eQ4T4O2Xwdgc0Pm_5ogo6QCE-RruqJkXc7un4C9n_nnqiuOnG-K09svhei818ythCvlsC5KxxDXcs8JOg?width=780&height=520&cropmode=none)
 Farellones 
 
-![N|Solid](https://6l1zjg-dm2306.files.1drv.com/y4miBRmAMkbhmNsaqYmpEg-a8iKnD3-t0wyPAQsvjkPPXlQVV8QQdSHHo1qsery0Pvn2ATFVfvQ5qIDmZSs4m3_BWl-EdkfKTylqjE_Z-09_323sJgQVM_AcISELFc44sZocPp2ByVbBAlWi0cVsR0yxuVhO_SpXV8tVqTCyOrJ43-bsHnGs15dLjG_AgzLQc1uT2Ay5ZiEYOCkN_eJHm2Phg?width=660&height=440&cropmode=none)
+![N|Solid](https://thty9w-dm2306.files.1drv.com/y4mTIAmrKXt4iAzseN5fxB2UMOHOpQ1TbvR-_yZad2pw0iLUtmYQvsZJ0oum99gbX2jYttEhNVC1-NscNTin6BjHUnw7qRkGh2VQb4AgDNmeXDramit7sEh3mwajylIw8QQDQK2BNdDSbWxVgVX4jIo8SaiDO0SzydVm-i6WwTwhFdk4trZgB240MDvYQ7zvHPSX1_qdiQfuXPM6FBETm8uUw?width=780&height=520&cropmode=none)
 Farellones 
 
 A van foi nos buscar às 16:00 horas e chegamos no hostel pouco depois das 18:00, cansados e muito felizes!
@@ -93,7 +93,7 @@ Quem me conhece sabe que eu sempre fui a looouca do frio hahaha
 Amo muito o inverno e meu sonho de infância era conhecer a neve. Moro no interior de São Paulo e quando ouvia na previsão do tempo "possibilidade de geada" ficava super animada hahaha e me desanimava muito ouvir da minha mãe "Grazi, sinto muito, filha, mas ele não está falando de neve" hahaha
 Demorou, mas aconteceu :D
 
-![N|Solid](https://hdi2sg-dm2306.files.1drv.com/y4m573J1yscR75PUK-7OUOdNQTQDnfbsSyDPSNTXTZeJ_dxLkuUCanTGwHdXiBK1WatFhp2-oUvA_h5DGQJZE28bUOTyMnPeBVt7IjyG7vFR6QCkwPps-dNffizP3kj7eRdO1T_emDMb89TucQGzVn8BV3QwADuhrzWaynOky1ywtFGwFnuDkbO7vjM8OGvUqettQcCI4tSzTqK3P9x_GdGhw?width=660&height=440&cropmode=none)
+![N|Solid](https://threyg-dm2306.files.1drv.com/y4mPn8dtOkXeJmd3v4GF3DXuZxrfSSmTl7DrYoBccLDSywcS0lnLxFWvLM2iC9Oig-8Jmkn-RlSZWls01AFb17QVtiBR9IGxVDuMWeotgLKIpCgfUDvnPekh48oz1BCWEiBRDZwU3-pSSTzkwp_IYtyuNbW8ekpYf26f39h91xfLdHPe1UIYfRFJ7-xvfffMaIkxA9naPC_u29IBGj1FQL0_Q?width=780&height=520&cropmode=none)
 
 Espero que minha experiência esteja ajudando no planejamento de alguém  
 E que todos que tem o sonho de deitar na neve branquinha, tenham a chance de realizá-lo!

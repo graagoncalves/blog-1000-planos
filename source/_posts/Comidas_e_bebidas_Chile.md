@@ -5,13 +5,13 @@ tags:
 - viagem
 fb_og_description: 'Viajar envolve vários tipos de experiências diferentes e muito interessantes, uma delas é experimentar a gastronomia local, conhecer sabores que você não está acostumado e outros que sequer conhecia. 
 Acho válido provar pratos típicos da região em que você está e, quem sabe assim, se apaixonar ainda mais por um país ou estado diferente.'
-fb_og_image: https://6l2fya-dm2306.files.1drv.com/y4mGwhQz8o6saKQgXaybPAKV329na5jCQLAuCbHmtTjOq2ki4nnCJ9lAkYj32eer0SvneRZfV92T_UgYtTH6fVRkBKc8zKKYq611T91PZm78xTVgDSjPmjIjekLI7hQyepsmDvMkhjjx1C4LZvs6Hy0cynf-WASFIhlyMjp-NHqoU9KSzt7zKRBkeVOdeQmqDeRTkC31xuDQShtcQV_ZuSL0Q?width=660&height=440&cropmode=none
+fb_og_image: https://jbmpgq-dm2306.files.1drv.com/y4m5lAjajQ5Diz9rHHvnheTtIHoX1CtTSiFhyY5-scp6q9XzsmH0rH5raDDS07ifsmIYWPpktMRwewW2EmlOClK6gh9X_0NNaQYvMRivfJ4HOCCzo-F3Mi3XMbFI7JboXnUKSfunX5dTYi1_kayA_XA9Ad1pCBWTja3OFP9nr4_9UZgBvJC_PEwksn6h0Mcg2JT65vFmT5D9sPvZYMEXbmnZQ?width=780&height=520&cropmode=none
 ---
 
 Viajar envolve vários tipos de experiências diferentes e muito interessantes, uma delas é experimentar a gastronomia local, conhecer sabores que você não está acostumado e outros que sequer conhecia. 
 Acho válido provar pratos típicos da região em que você está e, quem sabe assim, se apaixonar ainda mais por um país ou estado diferente. 
 
-![N|Solid](https://6l2fya-dm2306.files.1drv.com/y4mGwhQz8o6saKQgXaybPAKV329na5jCQLAuCbHmtTjOq2ki4nnCJ9lAkYj32eer0SvneRZfV92T_UgYtTH6fVRkBKc8zKKYq611T91PZm78xTVgDSjPmjIjekLI7hQyepsmDvMkhjjx1C4LZvs6Hy0cynf-WASFIhlyMjp-NHqoU9KSzt7zKRBkeVOdeQmqDeRTkC31xuDQShtcQV_ZuSL0Q?width=660&height=440&cropmode=none)
+![N|Solid](https://jbmpgq-dm2306.files.1drv.com/y4m5lAjajQ5Diz9rHHvnheTtIHoX1CtTSiFhyY5-scp6q9XzsmH0rH5raDDS07ifsmIYWPpktMRwewW2EmlOClK6gh9X_0NNaQYvMRivfJ4HOCCzo-F3Mi3XMbFI7JboXnUKSfunX5dTYi1_kayA_XA9Ad1pCBWTja3OFP9nr4_9UZgBvJC_PEwksn6h0Mcg2JT65vFmT5D9sPvZYMEXbmnZQ?width=780&height=520&cropmode=none)
 <!-- more -->
 Imagem de "Viña Concha y Toro"
 
@@ -19,32 +19,32 @@ Então aqui vai uma pequena lista de comidas e bebidas que você não pode deixa
 
 
 **Completo**
-![N|Solid](https://6l3quw-dm2306.files.1drv.com/y4m05rw5-hEp4rQTp2EngsDddnTcnhhIDzjlrCGxOhGVyYEQdKbGFumQQLsSHUBmvnrgIT25lbdGg-lyapZzdbYAQIQDRDg3AIIdSPzud_LqnTpdGTMQN7l9wyaLCf-NeJ-2Ks_kWAsZFUMq-FbMvmXWMWpZ6thyrJsmOACGWyhxgYQSAenl0qbzHW8Ei9LGB62egq0AJQ3L9MEeNFUKlB7nw?width=660&height=440&cropmode=none)
+![N|Solid](https://jblzma-dm2306.files.1drv.com/y4myP1Wd60HOsSyHWayMCjXQE8NYv3PL-ODJfdt3QDgB0qnQ4rlapDSBnpvZiyC26loEWlWzTCFAJUZdr-KQnyQQ8AlSgaqrIxcFhU87EyrLE2s0zpc1ddGLKMZJQRjDpJZcKabmRfH_LVQS7LpnRN0upKl_eqUz1ZskqARn_ZaFbkYT3I43Ux7vKkVFtWBC2F6YfZ28PuYh9zMan6C8Dv0kw?width=780&height=520&cropmode=none)
 A composição do hot dog chileno varia um pouco dependendo da lanchonete que você escolha, mas, no geral, leva uma salsicha vienense, tomates, chucrute, purê de abacate e maionese, você também pode adicionar diversos molhos de sua escolha. 
 
 **Pisco Sour**
-![N|Solid](https://6l0nha-dm2306.files.1drv.com/y4m82klhn5zaMb9b4a0XxXPeElO-sRxYpbJmSGwTWZAuqY53_wiQ6dzhc7kbt1mB0T89eCxB4Y6vrUR5i3DzSew_ZAEfGixk_qUZL7_rjBS7QTH6xiX8_b0BMqLljP49wrmAfY8oa3VLCUhDbU483QFmSM_na1Q3h3RH-ct_TKXWI9Nc-2UgN2LQ95_WlIfmWePVLU4Qw38FX_swP3-w4SjAA?width=660&height=440&cropmode=none)
+![N|Solid](https://jbl63w-dm2306.files.1drv.com/y4mvjGS_YXC9sezFqQxiaSXmYx1Vz-NvyGFMI5htWsi6G-ewgsx9qaMICk5uj1BL7sikQOJPhbcP_SUWCxzv3a79G9yGnkGsOGOwHeiSqsEQ0u4GjI7-GHDBAM1-Sf4CwzwlF1FGNAz42no_mKCbsenDURo6x_7XnXxYVgoQgPRh2Vhg2G_fUQblfg87PzJ4gAZ5UnMrAWOz7C3ltS4xeuWyg?width=779&height=520&cropmode=none)
 Imagem de "Revista Máxima-UOL"
 Essa bebida é preparada basicamente com pisco, sumo de limão, pimenta e clara de ovo e é comparada à nossa caipirinha
 
 **Empanada**
-![N|Solid](https://6l2fya-dm2306.files.1drv.com/y4mGwhQz8o6saKQgXaybPAKV329na5jCQLAuCbHmtTjOq2ki4nnCJ9lAkYj32eer0SvneRZfV92T_UgYtTH6fVRkBKc8zKKYq611T91PZm78xTVgDSjPmjIjekLI7hQyepsmDvMkhjjx1C4LZvs6Hy0cynf-WASFIhlyMjp-NHqoU9KSzt7zKRBkeVOdeQmqDeRTkC31xuDQShtcQV_ZuSL0Q?width=660&height=440&cropmode=none)
+![N|Solid](https://jbmpgq-dm2306.files.1drv.com/y4m5lAjajQ5Diz9rHHvnheTtIHoX1CtTSiFhyY5-scp6q9XzsmH0rH5raDDS07ifsmIYWPpktMRwewW2EmlOClK6gh9X_0NNaQYvMRivfJ4HOCCzo-F3Mi3XMbFI7JboXnUKSfunX5dTYi1_kayA_XA9Ad1pCBWTja3OFP9nr4_9UZgBvJC_PEwksn6h0Mcg2JT65vFmT5D9sPvZYMEXbmnZQ?width=780&height=520&cropmode=none)
 Imagem de "Viña Concha y Toro"
 A típica empanada chilena é a de pino, com carne picada, cebola e ovo cozido. 
 Geralmente acompanha uma boa garrafa de vinho
 
 **Suco de framboesa**
-![N|Solid](https://6l3xmg-dm2306.files.1drv.com/y4muaveAVh-qBrkuIJmma9p58V2GMjILba782xGeyemrGutxgFYyhg6TC0LcB6VNHl423elQkTeBlA6gkxKUXsy0KrJT6iuBz84yInCYZRZdm3Dfoi_jdanVLhOcmELtUKpYMkWbAeDw1rJMbAAgr7_RYa3nJLZCa47NrtEEirwQI52j66TKY_hUG7KnvoPnnP7cez_wrvlpz7hDzCBqRW8bw?width=620&height=414&cropmode=none)
+![N|Solid](https://jbkodq-dm2306.files.1drv.com/y4m8wOk-i0oIEV_a0yShk0YGJFCtL59dMBzUGTAqG7kHLo0xzblPa8ltN6C8sDCSTCIZwgL1jGNAl1wnLRsjvlQKKMN0gVSIiqfM_vuCPmwZwYMk3rCURTS95nYIGvs7kATk43PA1q35QyoQPd_x7w1vQnntcmXp3dhDBeA5Hqy2sBDe0ASacZb-LT_dsFoTHYTy0z-cYqqoZ_SMNxAVNtgsg?width=620&height=414&cropmode=none)
 Imagem de "Panelaterapia"
 A framboesa é cultivada em ambientes frios, por isso é tão difícil encontrá-la por aqui. O Chile é um grande produtor da fruta, por isso nao perca a chance de experimentar o suco lá, é delicioso.
 
 **Mote con Huesillos**
-![N|Solid](https://6l1wjg-dm2306.files.1drv.com/y4mvlqzNsfib0NxSXhtkI9Y5YWnF-VeOzqyFFMH40ma1ZZtWlEMj521cL0h79pdQ5fdFCMWR9eHP2GXJ0d5X4HgX1Am1NvGnL6Knbx_UNXR8NTW5pozF3HdXqyudv_LwF_jXvRzAk3YUv2v8Hn3XREsd8WridCOsOczrFXdGznUCZPif3rB0qEwPW9n4zPkCnfr4e2bOv-HtHhJTwzU9p43aw?width=660&height=440&cropmode=none)
+![N|Solid](https://jbkvva-dm2306.files.1drv.com/y4mmptqp8dF5kJ_FsGl6dhMW_TKnZxUjycYYpuaB6kEUq17W3MOsxx4cshF5-PMuv7HnveOkZ1C3JWTLsT_zJD7FynRirm5NAFFjDUWw2wwZ_hL1eMu0xVtFXhHwtya3ED8keJsm7zctxz9CQg2vddAqLYtFQqHCaBScbDp2vkmA04uccm1XSEfA9GdfSThmiA7Nf8nXoSVgAC9mG1-Tq3CaA?width=780&height=520&cropmode=none)
 Imagem de "The Nomadic Chica"
  É um suco com trigo cozido no fundo, caldo e um pêssego inteiro. É bem doce, o sabor é muito parecido ao do pêssego em calda que compramos enlatado.
  
  **Chocolate SAHNE-NUSS**
-![N|Solid](https://6l2tvg-dm2306.files.1drv.com/y4mK940aXcBRyjZnZ3aLoJsoIqw8efPiMcPAHsoADy1LfIiXNSbltGDEbvnit0hLzTB7Cp_iKb_gUYMnaUXo7y9Q0mNXByGOmTOI4fioZomZx1rgTUi6Fsk3lJBnmFYvVWAAnTUc-A98cdWjCtb8TzPa8hTw2UkJvazKcThzrJs3mN_Jp-ktVzcvr8h2AfPZuwlT0TCmCxGxXQDpBsNXJTJKA?width=660&height=440&cropmode=none)
+![N|Solid](https://jbnyiw-dm2306.files.1drv.com/y4mKW7VQdXRPKWq_qoKp4VYV_PQqs5Ttvjbo_ItJQOGa3GVGvfDFFFdJUR8vo34JN2TBPnZWm2HVQ5i7HHjX-AG2Ck4NqBlCsAcU7sL45dCC3uP84FzEs-g1xamxkxw0AueKebydHXWd4D0X4lb1wfMfo-AnP5uOdX61KRE3lRGCBImGN1S7FiRrg-ROu28SLnr17KwWdnDw7kSUhf8jxcCLw?width=780&height=519&cropmode=none)
 Olha, é difícil um chocolate me surpreender. Mas esse, definitivamente, conseguiu!
 
 Têm várias outras comidas chilenas que você provavelmente vai adorar, como pastel de choclo, lomo a lo pobre, torta três leches e muito mais... acho difícil listar todas, mas, pra mim, essas são as principais.

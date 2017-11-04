@@ -4,13 +4,13 @@ date: 2017-08-11 23:00:00
 tags:  
 - viagem
 fb_og_description: Genteeeee, pra quem não sabe, eu acabei de voltar de uma viagem incrível!! Fui com meu namorado conhecer Santiago, no Chile, e vou mostrar aqui no blog um pouquinho de cada lugar que visitamos lá. O post de hoje é sobre o Cerro Santa Lucia.
-fb_og_image: https://iefdva-dm2pap001.files.1drv.com/y4m3LFSCuxMYUHe22hvR2W8FK0rAYituwWqOQLeKQyfTQ_KVzXAYSOcw-KDiYQrnZ1hGCV0HRxazaAHuQD-RVk5h4FXEaiA1UVmfGaJiwu_gyt8DWhic_5sWHja3pIodgFskSPPAePNgoK1J-mziR-SX9m65BoHWQjE3kfsbYa2y1szAqRE1QI9GBFS7NJ-a8-0UCaQiNa1XCkqYDZPtPG34Q?width=540&height=361&cropmode=none
+fb_og_image: https://ied9yq-dm2306.files.1drv.com/y4mkm1iTabDUnycsQqSzC07whjpmSp5LDusAQeyXttGNTnihQwgEBJ7MEGSdXgZ211nbZsgzeKlhKOKtBIQAH3kdrrBO3Jwm-00RinvNYqzU1ZdQXg_gyzDeKtFzuhtyX7B9t1Hc3wNo9Ebu9bAZtf7twvQm_q0OEu0yKha31Z5CQCguNGJKfKBVbFj_8KizTqW1_S-LiuvBOdYDNgMyb0lvw?width=778&height=520&cropmode=none
 ---
 
 Genteeeee, pra quem não sabe, eu acabei de voltar de uma viagem incrível!!
 Fui com meu namorado conhecer Santiago, no Chile, e vou mostrar aqui no blog um pouquinho de cada lugar que visitamos lá. O post de hoje é sobre o  **Cerro Santa Lucia**
 
-![N|Solid](https://iefdva-dm2pap001.files.1drv.com/y4m3LFSCuxMYUHe22hvR2W8FK0rAYituwWqOQLeKQyfTQ_KVzXAYSOcw-KDiYQrnZ1hGCV0HRxazaAHuQD-RVk5h4FXEaiA1UVmfGaJiwu_gyt8DWhic_5sWHja3pIodgFskSPPAePNgoK1J-mziR-SX9m65BoHWQjE3kfsbYa2y1szAqRE1QI9GBFS7NJ-a8-0UCaQiNa1XCkqYDZPtPG34Q?width=540&height=361&cropmode=none)
+![N|Solid](https://ied9yq-dm2306.files.1drv.com/y4mkm1iTabDUnycsQqSzC07whjpmSp5LDusAQeyXttGNTnihQwgEBJ7MEGSdXgZ211nbZsgzeKlhKOKtBIQAH3kdrrBO3Jwm-00RinvNYqzU1ZdQXg_gyzDeKtFzuhtyX7B9t1Hc3wNo9Ebu9bAZtf7twvQm_q0OEu0yKha31Z5CQCguNGJKfKBVbFj_8KizTqW1_S-LiuvBOdYDNgMyb0lvw?width=778&height=520&cropmode=none)
 <!-- more -->
 *Imagem de "Like Chile"*
 
@@ -18,7 +18,7 @@ Bom, antes de começar a falar sobre o Cerro, queria contar que essa foi a minha
 
 Só eu sei como me senti ao olhar pela janela do avião e ter essa vista linda da Cordilheira dos Andes <3 
 
-![N|Solid](https://u7vwyq.dm2304.livefilestore.com/y4mxjhh_SNmtUfimsPTUHaNFSloeL8U4q18A4pVHMxeSuRhNlTLDrcPLQS_VDCdVosQ-x52z9vV7OnrSURNVomdh-nhyqLi-zoBy8hPHX-344TgDpgFJzWBHHoDUB667uTwGJQkGmkrixSMb1wb9aoAuVnN2P0cDjbeOFLi_RBssXIrMycp9UHtwQdB7YcpuJG-ZGc9NjJJo9-asFVh81l6Sg?width=495&height=660&cropmode=none)
+![N|Solid](https://j461rw-dm2306.files.1drv.com/y4mGE2kk2jv1eSVyS2gAnhgWYdxdKzVgKMg8NLOxYqXGTV9Inv9DtuwRzspmmGUZeA03kXCPIP5CdRnAgwnrk2fOM3scGK2d3PlM_haTaoPTwSv-oLoJ1860SqHsXx1WdReCG9gRV9Eaqqym9Vvs7nkTuFrfX5f7Tmsj-xnmgidrLp-VO1cn3DGjfZXyK64-hsTE1Kop0R6QCiu0ZWfWcipRA?width=390&height=520&cropmode=none)
  
  MUITO EMOCIONANTE! haha 
  
@@ -27,41 +27,41 @@ Só eu sei como me senti ao olhar pela janela do avião e ter essa vista linda d
 Ele é bem pequeno em relação ao outro, mas não subestime, a vista lá de cima é muito bonita. Para chegar no cerro, você pode pegar o metrô até a estação Santa Lucia, ele fica bem ao lado.
 É muito fácil de achar e possui várias entradas. Ah, e a entrada não é cobrada. Você só escreve seu nome e nacionalidade em uma folha com uma policial que fica sentada ali "fiscalizando" a movimentação. Acredito que seja para passar mais segurança ao turista. 
   
-![N|Solid](https://u7ulpg-dm2306.files.1drv.com/y4mKnFQQXZSmt0gAYr2DBG_0ZGdzPdjsUOd0HrFudjGEeBvTIDvTYrhOr3sqqZwtVqRHliFAqCoTUBA1sQVMgUudtaDd9t_LBpxedOIHa90dCVPjFafUd4aHdGZhMUsuWfOR7PVd9GiwLrwbm15UaswDcezVWD1fVeB6O9DiKhfT1LOYxvTUSm16JqMeqgG2dcfM70gnAGOpQIzc1pizdB3hg?width=660&height=450&cropmode=none)
+![N|Solid](https://vjcj3g-dm2306.files.1drv.com/y4mKBQRnS75iQNUXTpNXcyCiRh13KyOQ0ZQrsbxHi3SvnHYcg8fys7v_42NZxT1Woe1DPLMIsleDus1i3qO3-5aWSpZ1YMsJhPkHQsVN6PrEAhYUHMignxPVuUEhKqfhtGMOXMhdDXmUhArB5vpcm6HxVn7zXFoWdgaXzXAIN9aFX_Vq4FcYP6sdaW-gHc4fI-7L2u9Kx3Covl6pNN-Kly0Sw?width=763&height=520&cropmode=none)
 
   Após um primeiro lance de escadas, você encontra a *Terraza Neptuno* , uma fonte decorada no estilo europeu. Dizem que é um tipo de "fonte dos desejos", onde você joga uma moeda e faz um pedido, que, certamente, se realizará. Legal, né?! haha 
 
  
-![N|Solid](https://ied4yq.dm1.livefilestore.com/y4mjoRHEsUMFolTa7DQL8cDjask1xgBu_kf63nbvivi5lS7JHTS6a2D1_u-bLRjDT5_v7Dqhh6notJLWK2VepwyvBE5cDaOvTZPsGTZdFdJY8-4gR5ku5zT0YIhTP06g3gu9SPgRqfjGW5VQB5a0a5pjR_6DngQaqLvV-GcmBG95I27Xq8vA8UndJLRyWkJ0wRdpgnmkdZrXQQoOX0MvKHZ-w?width=660&height=449&cropmode=none)
+![N|Solid](https://vjcxba-dm2306.files.1drv.com/y4mjXWKQyZWrxgL7tpyVtJe_IqyxfWr1t10JnoTpuG1CTCSy8otRaIODVCqk3zSgG5MNOUD1h1UVc3FvW9S1f7vAjsmqYNTvsGG7PdtnmF6nSqjShODjS8aE_faGWqvWRo-1U_P68Oi0FoXJcJKRjkuUTvnrwkvOxKQQsiY4e6Xo11lFC_qFgsjPYb_8wmln9ojvAW5BQrhTKRZQDUqqIZuCw?width=764&height=520&cropmode=none)
 
 
-![N|Solid](https://iefwdq.dm2301.livefilestore.com/y4mQRHcEb8LTT_4UYSGHFVO2yXphAr8p50TzmyOaFPQpmJ4jRQCrd95cfPjGwkxeflZ_wVxxHXBsTnToZ6Uiagv-56NdCQFIKl7J7ZBaYYawDfokneTHssh6FmbLqw-FCmIkZaOnorm9E2Ho6hcuSd_pMQG42L7Jzx_iggB9GxYeTMzjeV1Glrk5hlRbvZW0B-cjWDNviTgWoF8Od9bayGKaw?width=660&height=447&cropmode=none)
+![N|Solid](https://vjarmg-dm2306.files.1drv.com/y4mk9Fn1sFY9uJXXTP0ZckGFrJWH2TPBm2z62YF4QIm3ubSmWoD9yOIi0RLEkfC6kweNYAKdQ6maDaREe85BhB2aiIne-ZDUm4dc045njcyDhDQxac4sLTYaXpQnOisMs8mjtcZr3dqobI3n5Vo1kxQizcniPmqOsZd_WUjhujF4MuE6huCLSrexHCPchsptpmBtvPeEODehsbqR7S45E1UbQ?width=768&height=520&cropmode=none)
 
 Subindo mais um pouco você chegará ao primeiro mirante, tem uma pracinha bem bonita, uns bancos para descansar, lanchonetes, cafeterias e uma vista bem legal do centro da cidade e da Cordilheira. 
 Uma pena que no dia que nós fomos, estava bastante nublado... mas isso não diminuiu em nada a graça do passeio, claro
 Então vou colocar algumas imagens de outros blogs também, para vocês verem o lugar dos dois jeitos 
 
-![N|Solid](https://8arusq.dm2304.livefilestore.com/y4mXWJ3GgY721oTfGuQjbnMcbXuxKoxsolScYneT9LDpUu2qy9kdUsZkx91vCMa7TPAm5JKlL7XcekStApAChDYJszL5Yxg8tPTWqk8XNt4HZ-Yug51JjWdlNM3soicNrBAjSigD5Trw31uufrkOnqfDKCtKWeJd2eXE3X526hsrxWH1FH5K3dmdYga5_kgVpkgQACnZN9Me14-Q9Lv7H1kvA?width=660&height=439&cropmode=none)
+![N|Solid](https://vjay4q-dm2306.files.1drv.com/y4m1NeM9HPLO9JWYsD1w5UJUwabPZ_bdlw7yghlqIHmrGErvwN52r1dWBti-xMK7g9PhQmWTNz15X4BVkNw_YOzi05d8eZQVaSBFmm4Y8mKFORt9T1v_ZhiL5XGEtPiJ1rE6HKJ-Z0HEPWD3W7v7VMnTMCxbLiOzTGE1nlL11BXMyBUJPW4_DBqEwfWkp85ejJTVNVKlNK3GvbeIMVxDTIyoA?width=780&height=519&cropmode=none)
 
-![N|Solid](https://ieenaw-dm2pap001.files.1drv.com/y4mCiWxuOsDHL02tIXgBtNlXV3u-gXhVHIpxhy6drKWmu3ZkN8wVfy12lZ_uHDQH4mxDdsu3qJBEoUoUr5-F42qPzZN3HsXYFnpVCz2jftmONW6MQvZxpHn2kuErh5xfCLB8VNZicbpMohCnsJ1I-pjwZi9WkvE_PkyN6NknK8UPG7frQUxvPXMa-39LsvR19Pb4cZ3L8ZTW1Tsj123V8rZRA?width=660&height=440&cropmode=none)
+![N|Solid](https://vjcqxw-dm2306.files.1drv.com/y4mbb41wInw-YteQe9IMGZQ5y2nLLIZHSTTXtpHxTL5KAzxrupQ9Lm_3_h2jq6kLuyhijjY1hHj2Lx0BdVJ8Nre91nK8y5VFpbXssbceq0CcJLyRX64zUAr_MaegccrOk0WUmMeU4JAOUgGD11YtLJRYLuiZkZtPXj7s1jsnvQJWMPHTzwIsoZqdOearPnD0JasevR86rmK-9xZ5U-1fPz2qQ?width=780&height=520&cropmode=none)
 *Imagem de "Um viajante"*
 
-![N|Solid](https://iec7mq-dm2pap001.files.1drv.com/y4mwRMylt0x24I--cSqkysSipcyC4pxwr2IkPm68wxX76Mvh7prpeY8GxRCotiYxfRQRCFCt7NG9QVLoakThEPkm4J3_FkSEhY0QjRLLqV96HveS1oyUdhJSA_dRVzE9k5aIFLwscTRSzecI0SOk7Gkuixy59utLZQpdWoHgb1vtgbdHzWy-0OWLESojeTNOPTL5QvQqsgS3mSi8-bKszOHAw?width=660&height=443&cropmode=none)
+![N|Solid](https://vjd1sa-dm2306.files.1drv.com/y4mMjKbL8BKoxJM7dVIhzDj6ibuihFFWN3kf-9gtHGTD2xYAl4YHpqAgf9aU8BODVVvPkmDJcdk3XG2Be9JVkT0DHeTJ9R_igWeIkkDda7KPlroCxlRHRyhmY1Q-yOZe9ZXc8ekbYMVLthCU8yTR5l3JnR-OVmZyBFLlaPuQLvcQmOQ-YEP5e8n7jPP-763V9vZdmIM4YRaVDrbimCG_tgrIg?width=774&height=520&cropmode=none)
 
-![N|Solid](https://iedjjw-dm2305.files.1drv.com/y4mtfmgN4p2cgsy6Sdszpn2UnEPMpm0nh3154N9rDoCfPBbbEQKyMzMoWu8J6xPd04SZJEOsexxzQNy1101i59scC2ZXMJp0p-xM97KFPNMZ31chlTn9g4dWnquTkcuOenDiw8Mx8yUUJyqotviNcu4HgaHXuGZzi8Wtf5V0ngNYOD4AOKEgVziM_p7KfN6N-IfzPwU7mP7I3jmf9laUcpgNA?width=590&height=332&cropmode=none)
+![N|Solid](https://vjakuw-dm2306.files.1drv.com/y4mHDu49DgJURdPSosTZ-Xu44SYR7C6aK7QH-hWcOY9IgLFnkrr1G8EUQz065Ya4bgODfy92TUy-HuzwAr7Kc8aTPLTzQ8_c3ho_HC1XBzuK0iNquAwkUtiIjO66pGJiHodwq9h9ie-EgvDP6B_pkndzP8U6FhM3ib7-tfeFApcWVqbgbipen0VaERrFHGn6PFT_t_VTFGmXmFe630er9lPzA?width=590&height=332&cropmode=none)
 *Imagem de "Viaggiando"*
 
 
 A última parada é a Torre Mirador, o mirante mais alto, no topo do cerro. É um espaço pequeno, que é bem disputado pelos turistas, principalmente na alta temporada  haha mas vale a pena. 
 Esse proporciona uma vista incrível da Cordilheira.
 
-![N|Solid](https://iedc4a.dm1.livefilestore.com/y4mMV8U3Pf8TE1shodQkXeZgFC88bcDx7wQijWqWGuHVqMPONt08K2QuCqjPxkdXQAxdln0093rK8YDA7LIoXMWQ5uZd1pNNYvyeK84Jxdmv7vzHpnyHF5HbUelT5kfRHLhTTYxhw7PF9zO4KgMGk7W3wZhAlJaIHxIeP235yPDKf_5xrkWGjTyfkr_uhK7cpJrOMlqXA1tvuADHV82IL_zxA?width=540&height=361&cropmode=none)
+![N|Solid](https://vjdgdg-dm2306.files.1drv.com/y4mC6Xb_N3FTn0DEQEPU7JREg5usKIEnhdGYSs4cVl98kdzIl-tRi_d4epnl-hL7sj-wW7nCyhX6WJPymArDcRBG2VqzFQLauOA9RJfMiSrXWwLq3tNbPLTAqS6UsA8NJf1e1COfmd2cTnst8tOji8yptIdRyjDC2N9oM6XsdD6sPckNDHyM5f4tELKOZ1bqtaaXC5xsIDXtWmLbga_cLpshA?width=540&height=361&cropmode=none)
 *Imagem de "Like Chile"*
 
 Acho que, nessa viagem, descobri que sou apaixonada por mirantes hahaha 
 Sem dúvida é muito interessante observar uma cidade ou paisagem de um ângulo assim tão diferente. 
 
-![N|Solid](https://iefkmw.dm2301.livefilestore.com/y4mo4_ci09mNnyUVUTn-MQLxxUyy-RZro-3ha559j066RLSxl1nog1Yr1taZXF7lPODl8tne39vNCRafP_EpzZhZv2dxWVTOv7Fe5nolkRiZKc62kIorWfs0RVRQAcOsXMviVmVX5zHsF8bIFoe_3pu_8qHmaEC1TzOkraE2WivM6hWb9RHmvE-cXm9-6O4PNJmwHzJyXijKZMlzEecDgBLhg?width=660&height=440&cropmode=none)
+![N|Solid](https://vjcqjq-dm2306.files.1drv.com/y4megFtj365VUOLEkpohJjVlfaC3wFqx68YFNvDatKuONxngdgN-1cbNhrDwObkhqtYT524-SFX-J0aEsqwXn_YgQoMR0UTP-x6m6hvpNYc8RPOarXmO8SEv1gzoSEYXXbTMVlgg2QZ5WxYiAbTrvpGYcW3Iygo3IvfuAM1CsRLTXj9_naJMDuJdvMMbZxf6pR-8Rt9YtcA7c6zUTR2biKigA?width=780&height=520&cropmode=none)
 *Imagem de "Um viajante"*
 
 Ah, lá em frente a esse morro, do outro lado da rua, tem uma feirinha de artesanato, o "Centro artesanal Santa Lucia" com várias opções de lembrancinhas para quem procura coisas bem típicas do Chile. Vale a pena visitar. 

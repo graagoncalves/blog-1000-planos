@@ -4,14 +4,14 @@ date: 2017-07-10 20:39:00
 tags:  
 - lifestyle
 fb_og_description: "Vale a pena encarar um namoro a distância? A resposta é: namore alguém por quem valha a pena!"
-fb_og_image: https://jbl9jg-dm2306.files.1drv.com/y4mh382HFYgvyGS-9xgTHEt3nrkr1dAFO_GKG_lvvEe4XTQxAIIbAr5M5NoB3iMR3iNyVWf5liGuaaMDpJa8Odn3nZEqck__1B3yTNjPQTqebLikULvJxylFpTY1AG4DhgBG5Q0oii8m_OujNv_DLDuYv5yA3N7JQFdE-y3TS0n8tTOaEJdhu6hf7W_DPQzhpEb55vVb8ytMcr6gzKSR4a6lw?width=590&height=368&cropmode=none
+fb_og_image: https://6l0uha-dm2306.files.1drv.com/y4m2_4PkfPsmg9QHbc-o6mU88wzmDJB1Mw2xprtcD7eihuyKRX-bon_UXSQQT2QrVktQ0Zn_VinXL3Dg8GV8mmSlmh_XjHYKtlcaBZBWtksD2HulZozEB4xTRD-CtQEqcohzW4-C10vv2z8eazIyUMD15wq02x0rPMARdyJI5VGcmZc-EsRa7K8GeX1fXTBfeSr8hnkFNkm4bT8vRRFJI0uZA?width=590&height=368&cropmode=none
 ---
 
 Vale a pena encarar um namoro a distância? 
 
 A resposta é: namore alguém por quem valha a pena! 
 
-![N|Solid](https://jbl9jg-dm2306.files.1drv.com/y4mh382HFYgvyGS-9xgTHEt3nrkr1dAFO_GKG_lvvEe4XTQxAIIbAr5M5NoB3iMR3iNyVWf5liGuaaMDpJa8Odn3nZEqck__1B3yTNjPQTqebLikULvJxylFpTY1AG4DhgBG5Q0oii8m_OujNv_DLDuYv5yA3N7JQFdE-y3TS0n8tTOaEJdhu6hf7W_DPQzhpEb55vVb8ytMcr6gzKSR4a6lw?width=590&height=368&cropmode=none)
+![N|Solid](https://u7v1yq-dm2306.files.1drv.com/y4mlCvcGcAMPybyfSQx53_3xlIQFV3abcb_JH2gFjSGg4ni97DbsE2ZRUC9Statqxvl63EknGfX4w3L0mZ7spS66AwkNnahPkYVN-PWKkEdLok1qwH5YYQ6GwJBkhSG1ZkqJ3rpg30EK33GsTvC8B2XODqvtYh9jPT8Rm4KW4HQUcHi9ftBbsa44VpS3s53sbcEP8_GW49Ozc6nEPQ2ZzhrPw?width=780&height=487&cropmode=none)
 <!-- more -->
 *Imagem retirada de "Mensagens com amor"*
 
@@ -65,7 +65,7 @@ Hoje, estou em uma outra fase de namoro a distância, meu namorado mora em São 
 
 Bom, essas são as dicas baseadas na minha experiência, não sei se funciona pra todo mundo, porque cada casal é diferente, mas independente do tipo de relacionamento que você tem, acho que dá pra aproveitar alguma coisa haha 
 
-![N|Solid](https://jbnisq-dm2306.files.1drv.com/y4mNdHUmp7121lQWlvgahlaQQKMqWFaovFGF8bJXoLaJzDIozyvU7iWh1OSHBXEV2WruLWe7uVuygTH2esq6x9FFC18HMtnHIYNl1yWKSVP6Mepd3UMW9bgrXd2wFUMnIAJsGUIcm86-KIGyGYKWLkRFzDetO2tHprbtq4vzcFt4KMePuHePdQHOb92ULTWU851NLeQLqi3kdkkWHxDVC5wug?width=500&height=359&cropmode=none)
+![N|Solid](https://ied2gg-dm2306.files.1drv.com/y4mVCNxsV5Q7e-NuK2q9cHoIiBHMXkF5tWRj4eCwcPyxwrj77HrDnP_IiHiMIy0gb71eXB_3QcadKBW6mFtiI-EdHAigXNVixvnSEaqCl8ENxaBHRRItI13kmnUE_SGaFYHtaRdoawn2Nc99n4zX9E27vOBnv5OuwhyiPixCxda0YhZ6J1OG6Y0OgTluJlFddk654jN8kOm1fq5eIb1uGfl9A?width=724&height=520&cropmode=none)
 *Imagem retirada de "Tá linda, amiga"*
 
 Namorar a distância é sentir saudades 10 minutos antes de partir. É ficar acordado de madrugada esperando promoção de passagem. É esperar o amor chegar em casa do rolê com os amigos pra não ir dormir preocupada. É mandar mensagem avisando que chegou. É a internet que conecta o coração a quilômetros de distância. É dormir com o celular no colo no meio de uma ligação. É se adaptar ao fuso horário diferente. É admirar, apoiar, segurar o ciúmes, a insegurança, a vulnerabilidade e a tpm. 
@@ -78,7 +78,7 @@ E, é claro que eu não perderia a chance de dizer aqui nesse post:
 Obrigada por tudo, lindo
 Eu te amo muito!!!
 
-![N|Solid](https://tpkvdw-dm2306.files.1drv.com/y4mSouKYt4VyQwdp5upXMQusucx3wIazWP8RZWWsUfTQ8UzA95cxJSTrCQxkQvz5Sxe50_NM9_ePViEpVfGSM5Hm3deUTnoIxrQZp8y6hdWsDZthqg4d5kN9ofVGz1OzZ3u6g77Frhbs89dxrNoDCj5_Xu36S2JGDIqELMAdr7_Cd8pq2PppAz_z9R-QeJurDGYQqLbBd-n4sv3MC8A_Ufl4A?width=640&height=708&cropmode=none)
+![N|Solid](https://iecr9w-dm2306.files.1drv.com/y4mgd_zlMG-hwZkjAWkLQlcqgp2fJQbT8ReVJ--G2F_6qfEL7IjEO6H9MGUE3MWj9wt6LhgvtHOPBTnwvnt5pLc1ezhcUs3rHkMR3W9r9LY4CA75pJpL1bciM6H4izJtlkTyGD83vA-qUByGjjwcy-ddbThf5L3skaK1N420yHFgPMGtWEHHDpn2xUTgzTj7_se3kTDqEALlvM8ICjBsgPMcQ?width=470&height=520&cropmode=none)
 
 
 
