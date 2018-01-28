@@ -1,13 +1,11 @@
 ---
-title: Dicas de decoração para o quarto
+title: 'Dicas de decoração para o quarto'
 date: 2017-05-30 10:20:32
 tags:  
 - decoração
-fb_og_description: "Olá, galera :) Estamos no finalzinho do mês de maio , junho já está batendo na porta e todo mundo sabe o que isso significa... frio. Sim, o inverno está quase aí e, se você é como eu, que adoooora essa estação do ano, deve estar bem animada. Então vamos ao que interessa... Um clima geladinho combina com o quê? Cama, edredom, maratona da série preferida, chocolate quente e muito conforto, é ou não é? Então se inspire nessas fotos e pegue algumas dicas para deixar seu quarto a sua cara."
-fb_og_image:
-https://thryba-dm2306.files.1drv.com/y4m4PP57LiEFU2aIZY3yOy1x8J7PFaCZl7Lt1KSuOuxOHkfNQx05xITEuhN-OpLN9lGydb9SBsbq_p7g5l3n99pGkguxnJ5GXtEYTjP4F6JJP_NlRmRREtvsdzL1hbT3HMhW4ZuPhsMIB84UpCY7SPoqtFoZLfWLH8STpa7wWhaqNzXUqrBsVu6pFKDbhBZ6tEpIDG9cwopCPmvuZpNxdWA8g?width=780&height=517&cropmode=none
+fb_og_description: 'Olá, galera :) Estamos no finalzinho do mês de maio , junho já está batendo na porta e todo mundo sabe o que isso significa... frio. Sim, o inverno está quase aí e, se você é como eu, que adoooora essa estação do ano, deve estar bem animada. Então vamos ao que interessa... Um clima geladinho combina com o quê? Cama, edredom, maratona da série preferida, chocolate quente e muito conforto, é ou não é? Então se inspire nessas fotos e pegue algumas dicas para deixar seu quarto a sua cara.'
+fb_og_image: 'http://bit.ly/2DIBRqi'
 ---
-
 
 Olá, galera :) Estamos no finalzinho do mês de maio , junho já está batendo na porta e todo mundo sabe o que isso significa... frio. 
 Sim, o inverno está quase aí e, se você é como eu, que adoooora essa estação do ano, deve estar bem animada.

@@ -3,10 +3,8 @@ title: 'Coisas que você não pode deixar de comer e beber no Chile'
 date: 2017-09-28 22:35:00
 tags:  
 - viagem
-fb_og_description: 'Viajar envolve vários tipos de experiências diferentes e muito interessantes, uma delas é experimentar a gastronomia local, conhecer sabores que você não está acostumado e outros que sequer conhecia. 
-Acho válido provar pratos típicos da região em que você está e, quem sabe assim, se apaixonar ainda mais por um país ou estado diferente.'
-fb_og_image:
-https://jbmpgq-dm2306.files.1drv.com/y4m5lAjajQ5Diz9rHHvnheTtIHoX1CtTSiFhyY5-scp6q9XzsmH0rH5raDDS07ifsmIYWPpktMRwewW2EmlOClK6gh9X_0NNaQYvMRivfJ4HOCCzo-F3Mi3XMbFI7JboXnUKSfunX5dTYi1_kayA_XA9Ad1pCBWTja3OFP9nr4_9UZgBvJC_PEwksn6h0Mcg2JT65vFmT5D9sPvZYMEXbmnZQ?width=780&height=520&cropmode=none
+fb_og_description: 'Viajar envolve vários tipos de experiências diferentes e muito interessantes, uma delas é experimentar a gastronomia local, conhecer sabores que você não está acostumado e outros que sequer conhecia. Acho válido provar pratos típicos da região em que você está e, quem sabe assim, se apaixonar ainda mais por um país ou estado diferente.'
+fb_og_image: 'https://jbmpgq-dm2306.files.1drv.com/y4m5lAjajQ5Diz9rHHvnheTtIHoX1CtTSiFhyY5-scp6q9XzsmH0rH5raDDS07ifsmIYWPpktMRwewW2EmlOClK6gh9X_0NNaQYvMRivfJ4HOCCzo-F3Mi3XMbFI7JboXnUKSfunX5dTYi1_kayA_XA9Ad1pCBWTja3OFP9nr4_9UZgBvJC_PEwksn6h0Mcg2JT65vFmT5D9sPvZYMEXbmnZQ?width=780&height=520&cropmode=none'
 ---
 
 Viajar envolve vários tipos de experiências diferentes e muito interessantes, uma delas é experimentar a gastronomia local, conhecer sabores que você não está acostumado e outros que sequer conhecia. 

@@ -4,8 +4,7 @@ date: 2017-06-27 21:15:30
 tags: 
 - decoração
 fb_og_description: "Olá, gente! Dia 22 foi meu aniversário (26 aninhos) e eu fiz um almoço com a minha família no fim de semana para comemorar, então achei legal dar umas dicas de decoração para festas de aniversário e mostrar um pouquinho como foi o meu."
-fb_og_image:
-https://u7ui9w-dm2306.files.1drv.com/y4mM0kmAgSTTng_mxvi9_-OejIySs925MuR8lzuhLrohoqhD-zW0vC69qrc1Hp58cpazFUubpWnffB0gsq3VItZ12LhLbJ4_gYAcwq-qxdVaYEjb0kR6K27H-TMRwRLJobFmfMAsHjnowF-0ljVHz5WPgv_kYO_jzQgG1OcDSou1Uc2IKNixfRGHpRQbaQs24YxVgYEmvwBgzraOQPcrCk-eg?width=596&height=520&cropmode=none
+fb_og_image: 'http://bit.ly/2GouwOq'
 ---
 
 
